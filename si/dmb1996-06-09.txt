@@ -1,0 +1,53 @@
+Dave Matthews Band
+June 9, 1996
+Jones Beach Amphitheater
+Wantaugh, NY
+
+
+Source:		Neumann KMi84 > mv100 > DA-P1
+
+Conversion:	Tascam DA-20mkii > Audiowerk2 > PowerMacG4/733
+		burn/extract via plextor 12x4x32
+		Scott Brown <scb@dartmouth.edu>
+
+Disc One:
+
+01:		Intro				01:14:51
+02:		#41 ->				07:06:10
+03:		Say Goodbye			06:42:55
+04:		Two Step ->			07:20:74
+05:		Crash into Me			08:07:05
+06:		Drive in Drive Out		07:24:53
+07:		Seek Up				14:50:12
+
+Total						52:46:35
+
+Disc Two:
+
+01:		Lie in Our Graves		07:50:26
+02:		Too Much			05:25:34
+03:		Jimi Thing			15:54:33
+04:		Granny				05:13:42
+05:		Cry Freedom			05:42:12
+06:		Dancing Nancies ->		08:53:66
+07:		"Toy Soldiers" ->		03:03:12
+08:		Warehouse			08:51:20
+
+Total						60:54:20
+
+Disc Three:
+
+01:		Proudest Monkey			10:07:05
+02:		Satellite			06:04:07
+03:		#36				09:35:65
+04:		Ants Marching			12:37:12
+05:		E:  Watchtower			08:39:39
+
+Total						47:03:51
+
+Notes:
+----------
+*	this show is even better than I remembered it :)
+*	Proudest Monkey has the "monkey hard on" story in the beginning.
+
+*  compiled by scott brown on 5-29-01

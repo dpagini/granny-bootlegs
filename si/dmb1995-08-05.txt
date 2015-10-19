@@ -1,0 +1,46 @@
+Dave Matthews Band
+Pauley Pavilion - Los Angeles, CA
+8/5/95
+
+
+Taper:	Unknown
+Source:	B&K 4011 > DAT
+
+
+DAT > CD Conversion:	Avi Sareen (Supernash@vt.edu)
+
+Equipment: Tascam DA-30 mkII > Monster Coax > Sek'd Prodif Plus >
+	   Samplitude v5.5 > Cool Edit Pro > MKW Audio Compression Tool
+
+
+** No DAE - DAT > .WAV > .SHN
+
+*******************************************************
+***    DO NOT ENCODE THIS SHOW INTO MP3 FORMAT!!    ***
+*******************************************************
+
+
+Disc 1
+01 - Intro						01:55.267
+02 - Seek Up						13:58.894
+03 - Proudest Monkey					06:00.824
+04 - Satellite						05:37.939
+05 - Tripping Billies					05:24.018
+06 - Best Of What's Around				06:32.558
+07 - Drive In Drive Out					07:16.244
+08 - Lover Lay Down					06:35.053
+09 - Jimi Thing						13:44.393
+
+Disc 2
+01 - Song That Jane Likes				04:31.476
+02 - What Would You Say?				05:17.818
+03 - Dancing Nancies					09:15.108
+04 - Lie In Our Graves					08:31.630
+05 - Rhyme And Reason					05:32.189
+06 - Two Step						07:27.430
+07 - Ants Marching					08:57.499
+08 - Typical Situation					05:51.783
+09 - Recently						08:00.187
+
+Seeded by Mike Woellert
+compiled by Avi Sareen 3/30/01

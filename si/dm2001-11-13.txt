@@ -1,0 +1,25 @@
+Dave Matthews
+November 13, 2001
+Richard Allinson Show
+BBC Radio 2 Studios
+London, UK
+
+
+Source:		bbc.co.uk webcast > Stream Box VCR
+Conversion:	ra > wav > mkwACT 0.97 BETA 1
+
+
+Disc 1:		
+
+01: Interview			2:28
+02: The Space Between		3:36
+03: Interview			4:08
+04: When The World Ends		3:18
+05: Interview			0:37
+
+		     Total:    14:07
+
+
+
+compiled by: Brian Yee 
+11/13/2001

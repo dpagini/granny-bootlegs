@@ -1,0 +1,31 @@
+dave matthews band
+5/21/95
+sam boyd silver bowl
+las vegas, NV
+
+taper:  unknown
+source:  DAUD
+
+conversion:  allan chen (taper@kaiyen.com)
+using:  sony pcm-r300>sek'd prodif plus>samplitude (48>44.1)>cdwav>mkwact
+
+**no DAE.  dat>wav>shn
+
+cd1
+---------
+1 - Intro			01:15:59
+2 - One Sweet World		08:01:14
+3 - Lie In Our Graves		08:17:23
+4 - True Reflections		07:26:57
+5 - The Song That Jane Likes	04:15:44
+6 - Two Step			07:23:04
+7 - The Best of What's Around	06:44:15
+8 - Rhyme & Reason		06:01:11
+9 - All Along the Watchtower	10:01:72
+
+Comments
+--------
+probably the most even recording of the three nights.  not as crisp as other recordings I've heard but it's an excellent AUD without any thin-ness anywhere or lack of range.  if anything, the only criticism of any of these nights is that they simply don't jump out at you.  they don't let you down though, either.  
+
+compiled by allan chen (taper@kaiyen.com) for Digital DMB Source Round 8
+12/15/00

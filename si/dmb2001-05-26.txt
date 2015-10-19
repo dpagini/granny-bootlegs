@@ -1,0 +1,47 @@
+Dave Matthews Band
+May 26th, 2001
+UNLV - Sam Boyd Stadium
+Las Vegas, NV
+
+
+Taper: 		Matt Blum
+Source Info: 	Schoeps MK4s > VMS 5U > SBM-1 (24 bit oade mod) > M-1 
+	   	(17' on stand, 6 rows from right stack)
+
+Conversion:	Alex Coluzzi: D8 > EQ (bumped high end) > Otari CD-R-18 > EAC >MKW shn
+
+
+Disc One
+
+01:	Intro					02:07
+02: 	Dont Drink the Water			08:21
+03:	#41					13:38
+04:	Rhyme & Reason				05:57		
+05:	What Would You Say			06:29
+06: 	Angel					06:23
+07: 	When the World Ends			04:19
+08:	The Space Between			05:23
+09:	Fish Monkey Man ->			05:11
+10: 	Bartender				10:39
+
+	Disc One totals: 68:27
+		
+
+Disc Two
+
+01:	Intro					00:48
+02: 	Warehouse				08:48
+03: 	True Reflections			10:18
+04: 	Recently				04:17
+05: 	Digging a Ditch				05:33
+06: 	What You Are				06:55
+07:	Fool To Think				04:26
+08:	Everyday (#36)				13:03
+09:	[Encore Break]				03:04
+10:	Grace is Gone				08:22
+11:	Stay					07:19
+
+	Disc Two totals: 72:53
+
+	
+*compiled by will gordon <gordonw@stuy.edu> 5/30/01

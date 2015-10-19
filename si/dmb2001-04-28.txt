@@ -1,0 +1,49 @@
+Dave Matthews Band
+Alltel Pavilion at Walnut Creek, Raleigh, NC
+April 28, 2001
+
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		Neumann ak40s > Neumann lc-3 active cables > Neumann km100s > 
+		Sonosax sx-m2 > Audio Magic X-Stream XLRs > Sonic ad2k+ @ 44.1 16ns3
+Location:	3rd row, stage right stack
+
+DAT > SHN:	DA-30 mk.II > Opcode Datport > IBM Think Pad 600X >
+		Sound Forge 4.5
+					
+Disc One:
+
+01:	Intro					- 	01:32.493
+02:	#41>(Everyday)				- 	14:20.000
+03:	When The World Ends			- 	05:05.506
+04:	JTR					- 	07:26.000
+05:	So Right				-	06:50.000
+06:	Bartender				-	10:18.000
+07:	What Would You Say			-	06:10.493
+
+Total:						-	51:42.493
+
+Disc Two:
+
+01:	Disc Two Intro				-	00:58.000
+02:	If I Had It All				-	04:40.000
+03:	Everyday				-	08:14.506
+04:	Watchtower				-	10:53.000
+05:	Sleep To Dream Her			-	04:42.493
+06:	Grace Is Gone				-	05:47.000
+07:	What You Are				-	06:53.000
+08:	Grey Street				-	09:02.000
+
+Total:						-	51:10.000
+
+Disc Two:
+
+01:	I Did It				-	03:56.506
+02:	True Reflections			-	08:16.493
+03:	Two Step				-	20:17.506
+04:	Waste					-	04:52.493
+05:	Tripping Billies			-	06:19.506
+
+Total:						-	43:42.506
+
+compiled by George Wang on 5-2-2001

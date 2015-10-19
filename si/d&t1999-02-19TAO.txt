@@ -1,0 +1,58 @@
+Dave Matthews and Tim Reynolds
+February 19, 1999
+Palace Theater
+Louisville, KY
+
+Taper:  Jeff Travitz
+Source: Schoeps mk4>vms>sbm>hhb  
+From:	Mics on stage
+
+Conversion:  Jeff Travitz (see comments)
+conversion source:  HHB 800 standalone cdr
+
+Disc 1:
+
+01:	Best of What's Around		-	8:05
+02:	Crush				-	8:28
+03:	The Stone			-	7:21		
+04:	DaveSpeak			-	3:40
+05:	Stay (6/8 time)			-	5:24
+06:	Pay For What You Get		-	5:38
+07:	Too Much			-	5:07
+08:	DaveSpeak			-	0:47
+09:	Jimi Thing			-	6:13
+10:	What Will Become of Me>PNP	-	3:35
+
+Disc 2:
+
+01:	DaveSpeak			-	1:53
+02:	Reconcile/Bended Knee		-	4:11
+03:	Don't Drink the Water		-	9:52
+04:	Lie In Our Graves		-	6:54
+05:	Tim Solo(Chatterbox)		-	6:59
+06:	Wild Horses			-	7:02
+07:	Two Step			-	7:06
+08:	Say Goodbye			-	7:18
+09:	#41				-	5:07
+10:	Warehouse			-	9:04
+
+Disc 3:
+
+01	Tim Solo			-	8:24
+02	Crash Into Me			-	5:21
+03	Dancing Nancies			-	8:56
+	-ENCORE-
+04:	Tripping Billies		-	5:15
+05:	All Along the Watchtower	-	5:48
+
+
+comments:
+	Jeff did it on a standalone.  I edited the track breaks 
+	just a bit - he did a pretty good job overall but I fixed 
+	them a tad.  I also cut Jimi Thing apart from WWBOM and 
+	Reconcile/On Bended Knee from DDTW.  Done in Sound Forge.  
+
+compiled by:  Allan Chen
+kaiyen@stanford.edu
+
+DDS - Digital DMB Source

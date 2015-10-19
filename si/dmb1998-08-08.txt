@@ -1,0 +1,44 @@
+Dave Matthews Band
+August 8, 1998
+Deer Creek Amphitheatre, Noblesville, IN
+
+Taper:  	unknown
+Source:		Microtech Gefell M210 --> Lunatec 316 --> Apogee 1000 --> DA-P1
+DAT>CD:		(Allen Chen) sony r300>zefiro za2(coax)>cooledit pro
+Extract/SHN:	(Louie Rendek) EAC v0.85b4, all tracks 100%
+
+Disc one:
+
+1.  Two Step						12:16
+2.  Don't Drink The Water				07:43
+3.  Lie In Our Graves					11:19
+4.  Satellite						05:29
+5.  Stay						07:32
+6.  Jimi Thing						16:11
+
+			      	      Disc one total    60:45
+Disc two:
+
+1.  Pantala Naga Pampa -->				00:42
+2.  Rapunzel						07:32
+3.  Crush						11:51
+4.  Say Goodbye (Carter Intro)				10:50
+5.  The Last Stop					13:40
+6.  Anyone Seen The Bridge --> Too Much			06:19
+
+			      	      Disc two total    51:09
+Disc three:
+
+1.  Crash						06:34
+2.  Drive In Drive Out					06:08
+3.  Tripping Billies					06:00
+4.  E:  Pay For What You Get				07:31
+5.  E:  All Along The Watchtower (Stefan Intro)		12:14
+6.  "digital by Kaiyen (the man)"			00:04
+
+			      	      Disc three total  38:30
+
+**Compiled by Louie Rendek (ljr7@po.cwru.edu)
+
+
+

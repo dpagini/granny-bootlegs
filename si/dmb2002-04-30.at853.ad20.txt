@@ -1,0 +1,58 @@
+Dave Matthews Band
+Hilton Coliseum
+Iowa State University
+Ames, Iowa
+April 30, 2002
+
+Taper:		Chuck Lesiak <sprtscntr@dmbirc.org>
+
+Source Info:	AT 853s -> Denecke AD-20 -> D100
+
+Location:	Section FC, Row 14, Seats 5 & 6 @ 17'
+
+DAT > SHN:	D100 -> Oade Passive -> Dio 2448 -> Soundforge 5.0
+		-> cdwav -> mkwACT
+
+**************************************************
+*** Do NOT encode to mp3 under any circumstance***
+**************************************************
+
+Disc One: 
+
+01:	Intro					- 03:01:40
+02:	What Would You Say +			- 06:25:25
+03:	When The World Ends +			- 04:47:16
+04:	One Sweet World Intro +			- 03:12:07
+05:	One Sweet World	+			- 06:42:35
+06:	Rhyme & Reason +			- 06:35:71
+07:	The Space Between +			- 05:41:01
+08:	You Never Know +			- 08:38:51
+09:	Grey Street +				- 06:50:56
+10:	If I Had It All	+			- 05:03:57
+11:	Crush +					- 11:40:14
+12:	What You Are Intro +			- 02:24:14
+13:	What You Are +				- 06:15:38
+
+Total:						- 77:18:50
+
+Disc Two:
+
+01:	Jimi Thing +				- 15:17:27
+02:	Where Are You Going +			- 05:01:55
+03:	The Stone +				- 09:08:16
+04:	I Did It +				- 05:15:00
+05:	Don't Burn The Pig +			- 08:31:22
+06:	Tripping Billies +			- 06:07:48
+07:	Encore Break				- 05:37:32
+08:	Waste					- 06:03:41
+09:	Ants Marching +				- 07:38:10
+
+Total:						- 68:40:27
+
+
+
++ with Butch Taylor
+
+***Note: Disc One is tracked for an 80 minute cd 
+
+Compiled on 5/03/02 by Chuck Lesiak

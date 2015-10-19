@@ -1,0 +1,50 @@
+Dave Matthews Band
+Bryce Jordan Arena, State College, PA
+December 08, 2000
+
+
+Taper:		Mike Vernal <vernal@fas.harvard.edu>
+Source:		neumann ak40s > neumann lc-3 active cables > neumann km100s > 
+		Lunatec V2 > Audio Magic Excalibur-II XLRs > Apogee AD-1000
+Location:	15th row, floor, in front of stage left stack
+
+DAT > SHN:	PCM-R500 > Audiomedia III/Powermac G3/233 > Pro Tools 4.3.2 >
+		Plextor 12x/4x/32x (burn/extract)
+
+Disc One:
+
+01:	Intro						-	00:57:66
+02:	Blue Water Baboon Farm *			-	02:08:33
+03:	JTR						-	07:29:27
+04:	Satellite					-	05:28:00
+05:	What Would You Say				-	07:02:09
+06:	One Sweet World					-	09:44:69
+07:	Granny						-	05:22:45
+08:	Bartender					-	11:20:30
+09:	#41						-	13:37:35
+10:	So Much To Say					-	04:39:17
+11:	Anyone Seen the Bridge				-	01:28:43
+12:	Too Much					-	04:39:01
+
+Total:							-	74:00:00
+
+
+Disc Two:
+
+01:	Disc II Intro					-	00:52:00
+01:	Grey Street					-	08:20:26
+02:	True Reflections				-	07:56:71
+03:	Lie In Our Graves				-	13:01:00
+04:	All Along the Watchtower			-	17:27:12
+05:	Christmas Song %				-	05:49:66
+06:	Halloween %					-	05:36:43
+07:	Ants Marching					-	09:26:30
+
+Total:							-	68:32:21
+
+* - 	Dave Solo.  Last played in full band setting in early 1995.
+% - 	Dave and Carter
+
+
+
+

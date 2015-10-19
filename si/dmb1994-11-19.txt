@@ -1,0 +1,44 @@
+Dave Matthews Band
+November 19, 1994
+Fox Theatre
+Boulder, CO
+
+Taper:		unknown
+Source Info:	DSBD
+
+DAT > CD:	unknown
+Equip:		unknown
+
+CD > SHN:	Louie Rendek
+		EAC v0.85b4 @ 1x (Secure Mode)
+
+THIS SHOW IS NOT TO BE MP3-ENCODED
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		#36					0:09:47.96
+d1t02		Ants Marching				0:07:38.69
+d1t03		The Best of What's Around		0:05:44.21
+d1t04		Get In Line				0:05:58.44
+d1t05		Say Goodbye				0:08:18.00
+d1t06		Jimi Thing				0:13:58.28
+d1t07		Satellite				0:05:50.73
+d1t08		True Reflections			0:07:13.42
+d1t09		Minarets				0:09:27.09
+d1 totals 73:58.63
+
+d2t01		Cry Freedom				0:06:33.05
+d2t02		Rhyme & Reason				0:05:19.98
+d2t03		Dancing Nancies				0:08:24.94
+d2t04		Warehouse				0:09:11.13
+d2t05		Recently				0:01:03.29
+d2t06		interlude				0:04:13.88
+
+Encore:
+
+d2t07		I'll Back You Up			0:06:08.00
+d2t08		Tripping Billies			0:05:02.25
+d2 totals 51:28.29
+
+

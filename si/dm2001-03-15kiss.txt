@@ -1,0 +1,30 @@
+Dave Matthews
+March 15, 2001
+KISS 108 FM (WXKS)
+Medford, MA
+
+Taper:          Jason Tang <tangjk@purdue.edu>
+Source:         FM > Dell XPS B933 > Total Recorder 3.0.1
+
+WAV > SHN       mkwACT 0.97 BETA 1
+                Track splitting and fades done in CooL Edit 2000
+
+***DO NOT ENCODE TO MP3***
+
+Disc One:
+
+01:        Interview Part One                     09:50.316
+02:        The Space Between                      03:57.895
+03:        Interview Part Two                     02:12.428
+04:        Everyday                               03:42.792
+05:        Interview Part Three                   03:57.376
+06:        I Did It (B-52's Tease)                00:22.223
+07:        What You Are                           04:02.453
+08:        Interview Part Four                    03:11.105
+09:        I Did It                               03:38.354
+10:        Interview Part Five                    00:49.298
+11:        The Stone (Wise Men Say Outro)         04:59.125
+
+                                           Total: 40:43.365
+
+Compiled by Jason Tang <tangjk@purdue.edu> on May 24, 2001

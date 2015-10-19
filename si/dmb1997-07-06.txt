@@ -1,0 +1,52 @@
+Dave Matthews Band
+July 6, 1997
+Shoreline Amphitheatre
+Mountainview, CA
+
+
+Source:		Schoeps mk8+mk21 > Schoeps VMS021 > Apogee* > HHb
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+*PLEASE NOTE:  the Apogee is probably an ad1000, but is not known for sure.
+
+Disc One:
+
+01:		Intro				00:28.41
+02:		Two Step			08:44.56
+03:		#41 ->				09:12.39
+04:		Say Goodbye			09:22.64
+05:		Best Of What's Around		06:37.55
+06:		Lover Lay Down			07:56.02
+07:		Jimi Thing #			15:12.63
+08:		Lie In Our Graves # @		10:21.63
+
+Total						67:57.08
+
+Disc Two:
+
+01:		Beauty Of Wynona @		08:19.35
+02:		Pay For What You Get		06:26.55
+03:		Dancing Nancies			10:43.13
+04:		Crash Into Me			06:18.20
+05:		Tripping Billies		06:45.28
+06:		So Much To Say ->		04:06.47
+07:		Anyone Seen The Bridge ->	01.22.49
+08:		Too Much			05:10.50
+09:		encore intro			03:19.44
+10:		E:  Leave Me Praying		08:39.65
+11:		E:  Ants Marching		08:07.60
+
+Total						69:20.16
+
+#	with Steve Berlin from Los Lobos on saxophone.
+@	with David Hidalgo from Los Lobos on guitar.
+
+Notes:
+----------
+*	There was a cut during the encore break, so a
+	fade out/in was inserted.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on August 20, 2001.

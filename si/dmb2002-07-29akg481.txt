@@ -1,0 +1,45 @@
+Dave Matthews Band
+7.29.02
+Saratoga Performing Arts Center
+Saratoga Springs, NY
+
+
+Taper: Eric Naylor <dmbtrade@hotmail.com>
+Source: AKG 480/ck61 > Lunatec V2 > Tascam DA-P1
+Setup: 1st row behind pit, left stack, 15' stand, A-B mics 
+
+Conversion: Tascam DA-20MKII > Marantz CDR500
+SHN: HP CD-Writer cd16f > EAC > MKW
+
+
+d1t01  Intro
+d1t02  Dont Burn the Pig
+d1t03  Warehouse 
+d1t04  Grey Street 
+d1t05  Proudest Monkey > 
+d1t06  Satellite 
+d1t07  Don’t Drink the Water
+d1t08  Instrumental > 
+d1t09  One Sweet World 
+
+d2t01  If I Had it All 
+d2t02  Kit Kat Jam
+d2t03  #41 
+d2t04  I Did It 
+d2t05  Raven 
+
+d3t01  Loving Wings >
+d3t02  Where Are You Going 
+d3t03  So Right 
+d3t04  Ants Marching 
+d3t05  E: Dancing Nancies *
+d3t06  E: Two Step
+
+
+Notes:
+* Dave solo
+Entire set with Butch Taylor.
+Thanks to Shawn Everhart for allowing me to tape from his seat.
+
+Compiled by Eric Naylor
+7/31/02

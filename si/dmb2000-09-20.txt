@@ -1,0 +1,45 @@
+Dave Matthews Band
+Sandstone Amphitheatre, Bonner Springs, KA
+August 20, 2000
+
+Taper:		Jeff Travitz
+Source:		schoeps 4v (ortf) > schoeps kcy actives > schoeps vms021b >
+		sony sbm-1
+
+DAT > SHN:	PCM-R500 > Audiomedia III/Powermac G3/233 > Pro Tools 4.3.2 >
+		Plextor 12x/4x/32x (burn/extract)
+
+Disc One:
+
+01:	Intro					-	01:51:21
+02:	So Much To Say				-	04:24:67
+03:	Anyone Seen the Bridge			-	01:28:64
+04:	Too Much				-	05:13:23
+05:	JTR					-	08:02:13
+06:	Bartender				-	09:47:64
+07:	Warehouse				-	09:10:50
+08:	All Along the Watchtower		-	10:26:70
+09:	Grace Is Gone				-	06:05:24
+10:	Grey Street				-	08:48:33
+11:	Crash Into Me *				-	06:44:07
+
+Total:						-	72:05:61
+
+Disc Two:
+
+01:	True Reflections			-	09:32:70
+02:	#41 #					-	26:23:45
+03:	What Would You Say $			-	06:32:61
+04:	Raven					-	07:06:47
+05:	Tripping Billies			-	13:19:31
+06:	Ants Marching #				-	09:43:21
+
+Total:						-	72:40:50
+
+* - w/Bela Fleck
+# - w/Bela Fleck and the Flecktones
+$ - w/Jeff Coffin
+
+
+
+

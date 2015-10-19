@@ -1,0 +1,55 @@
+Dave Matthews Band
+The Gorge Amphitheatre, Gorge WA
+August 06, 2000
+
+Taper:          Alex Coluzzi (alexc@well.com)
+Source:         schoeps mk4 > rmod box preamp > sbm1 > d8
+Location:       Section B, row 20, seats 1&2
+
+Conversion:     Joe Polastre (polastre@cs.cornell.edu)
+DAT > SHN:      da-p1 > dio 2448 > cool edit pro (pIII 733mhz) > cdwav > shn
+		
+Disc One:
+
+01:     Intro                                   -       02:14:42
+02:     Seek Up                                 -       18:14:45
+03:     PNP Intro                               -       05:52:07
+04:     Pantala Naga Pampa                      -       00:41:22
+05:     Rapunzel                                -       08:28:55
+06:     The Stone                               -       07:59:72
+07:     I'll Back You Up                        -       05:13:68
+08:     Dancing Nancies                         -       10:37:56
+
+Total:                                          -       59:22:67
+
+
+Disc Two:
+
+01:     Satellite                               -       06:05:46
+02:     Recently                                -       10:13:71
+03:     #41                                     -       10:35:38
+04:     JTR                                     -       06:18:24
+05:     Grace Is Gone                           -       05:57:62
+06:     Davespeak: Spam                         -       01:22:30
+07:     Lie In Our Graves                       -       15:36:54
+
+Total:                                          -       56:10:25
+
+Disc Three:
+
+01:     Bartender                               -       10:46:52
+02:     Crush                                   -       10:06:73
+03:     Granny                                  -       05:03:57
+04:     Two Step                                -       23:30:62
+05:     Watchtower                              -       11:07:25
+
+Total:                                          -       60:35:44
+
+Note:   The venue was windy, so you'll be able to hear some wind
+        pressure in the quieter sections of the show.
+
+*** DO NOT ENCODE THIS SHOW INTO MP3 FORMAT ***
+
+
+
+

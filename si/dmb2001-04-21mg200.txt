@@ -1,0 +1,42 @@
+Dave Matthews Band
+April 21, 2001
+Scott Stadium - University of Virginia
+Charlottesville, Virginia
+
+
+Source: 	Microtech Geffell SMS2000/200 (cards) > Oade M148 > Sony SBM1 > Sony D7
+Location: 	Section E Row 1, Absolute from left croner of floor, XY90 @ 12 feet
+		Bill Lakenan <blakenan@us.net>
+
+Conversion: 	Archive Python DDS > (DAT2WAV) > (CD-WAV) > .wav
+		(Direct DAT extraction, no soundcard)
+		Bill Lakenan <blakenan@us.net>
+
+Disc One:
+
+01:		Two Step
+02:		So Much to Say ->
+03:		(Anyone Seen the Bridge?) ->
+04:		Too Much
+05:		So Right
+06:		JTR
+07:		When the World Ends
+08:		I Did It *
+09:		What Would You Say
+10:		All Along the Watchtower +
+11:		Sleep To Dream Her
+
+Disc Two:
+
+01:		Grace Is Gone
+02:		What You Are
+03:		True Reflections *
+04:		Angel *
+05:		#36 * -> Everyday * -> #36 *
+06:		Ants Marching
+07:		<Encore Break>
+08:		If I Had It All *
+09:		Stay *
+
+* with Tawatha, Cindy and Brenda
++ with Neil Young

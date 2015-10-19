@@ -1,0 +1,45 @@
+Dave Matthews Band
+May 11, 1996
+Toronto Concert Hall - Toronto, Canada
+
+Taper:		unknown
+Source Info:	unknown
+
+Conversion:	Mike Vernal
+Equipment:	da-p1>audiomedia III>powermac G3>pro tools>AIFF>soundedit 16>separate AIFFS>CD  
+
+Track 	|		Name		|	Time (m:s.f)
+-------------------------------------------------------------
+d1t01		Drive In Drive Out		08:50.17
+d1t02		#41				08:33.24
+d1t03		Two Step			08:02.60
+d1t04		Crash Into Me			07:11.06
+d1t05		Tripping Billies		06:47.73
+d1t06		One Sweet World			09:36.41
+d1t07 		Say Goodbye			08:23.41
+d1t08		Jimi Thing			15:23.35
+d1 totals 72:49
+
+d2t01		So Much To Say			04:43.01
+d2t02		Proudest Monkey			10:11.19
+d2t03		Satellite			05:58.07
+d2t04		Too Much			04:46.57
+d2t05		Granny				04:35.17
+d2t06		Cry Freedom			06:43.34
+d2t07		#36 *				11:35.51
+d2t08		Ants Marching			06:54.35
+d2 totals 55:27
+
+d3t01		E:  Little Thing		05:09.29
+d3t02		E:  DaveSpeak - Bob Marley	00:49.24
+d3t03		E:  Exodus			10:36.24
+d3t04		E:  All Along the Watchtower *	14:35.63
+d3 totals 31:10
+
+* - with G. Love
+
+compiled by Allan Chen (kaiyen@stanford.edu)
+4/19/99
+DDS - the Digital DMB Source
+
+

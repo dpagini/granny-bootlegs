@@ -1,0 +1,63 @@
+Dave Matthews Band
+June 3, 2001
+Comerica Stadium
+Detroit, MI
+
+
+Source:		MBHO KA-500HN > active cable > MBHO 603a > mp2 > adc-20 > Sony d8
+		Taper's Section
+		Sam Lincoln
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				00:37.14
+02:		Little Thing tease		01:58.59
+03:		What Would You Say		06:06.40
+04:		Warehouse (stop time) $		09:18.38
+05:		Satellite			06:36.55
+06:		When The World Ends $		04:23.41
+07:		Fish Monkey Man ->		07:29.10
+08:		Bartender			10:38.13
+09:		I Did It * $			04:16.65
+10:		Everyday (#36) * $		09:53.38
+
+Total						61:18.73
+
+Disc Two:
+
+
+01:		What You Are $			06:02.04
+02:		Lie In Our Graves $		17:10.18
+03:		Fool To Think * $		04:48.13
+04:		Angel * $			05:45.31
+05:		True Reflections * $		09:18.10
+
+Total						43:04.01
+
+Disc Three:
+
+01:		JTR * $				07:44.01
+02:		If I Had It All * $		05:08.58
+03:		Tripping Billies		12:43.73
+04:		E:  Diggin A Ditch		05:00.24
+05:		E:  Stefan solo			01:26.12
+06:		E:  All Along The Watchtower	09:06.40
+
+Total						41:09.58
+
+$	Butch Taylor on keyboard.
+*	with Brenda, Cindy, & Tawatha on vocals.
+
+Notes:
+----------
+*	There is a thud at the end of Bartender (during crowd noise)
+	that sounds like something hit the stand (yes i know he was in
+	the taper's section).
+*	This show can fit on two discs if the first disc is split after
+	What You Are and the second disc is an 80 minutes disc.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on June 25, 2001.

@@ -1,0 +1,54 @@
+Dave Matthews and Tim Reynolds
+The Beacon Theater, NYC, NY
+2-2-99
+
+Source:  Schoeps MK4S>SBM>HHb Portadat
+Taper:  Jeff Travitz
+conversion:  Jeff Travitz (see comments)
+
+track	|	Title		|		M:S:F
+-----------------------------------------------------
+d1t01		Lie In Our Graves		9:04:13
+d1t02		Say Goodbye			7:32:91
+d1t03		Best of What's Around		6:31:41
+d1t04		#41				8:02:34
+d1t05		Reconcile Our Differences	3:51:83
+d1t06		Don't Drink the Water		7:09:07
+d1t07		Crush				7:45:44
+d1t08		Apes Story			3:34:22
+d1t09		The Stone			7:30:04
+d1t10		Tim Solo			7:56:22
+d1t11		Granny				3:56:31
+
+d2t01		Satellite			5:26:59
+d2t02		One Sweet World			6:11:23
+d2t03		I'll Back You Up		6:24:35
+d2t04		Jimi Thing			9:09:74
+d2t05		Seek Up				9:41:37
+d2t06		Crash Into Me			5:16:81
+d2t07		Tim Solo			8:07:24
+d2t08		Warehouse			7:48:15
+
+d3t01		Spoon				6:50:16
+d2t02		If I Had a Boat			2:56:61
+d3t03		Dancing Nancies			9:34:50
+d3t04		Cry Freedom			6:22:98
+d3t05		All Along the Watchtower*	5:14:77
+
+* - with Warren Haynes
+
+comments
+The show was originally converted to CD by Jeff Travitz, the taper, 
+on a standalone machine.  Since some of the tracking was off (as is 
+usual with standalones) I edited them a bit to get it a bit more 
+right.  There is one issue at the end of Granny where Jeff originally
+faded out (since it was the last track on disc 1), but it's relatively
+smooth, I think.  Levels are kind of low, but it's a cool show with Mr.
+Haynes from Gov't Mule sitting in and all...
+
+compiled by:
+allan chen (kaiyen@stanford.edu)
+
+
+
+

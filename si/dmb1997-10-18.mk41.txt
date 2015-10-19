@@ -1,0 +1,27 @@
+Dave Matthews Band
+Bridge School Benefit
+Shoreline Amphitheatre, Mountain View, CA
+October 18, 1997
+
+Taper:		
+Source:		Schoeps MK41 hypercards > Schoeps KC5 active cables >
+		Schoeps CMC6s > Sonosax SX-M2 > Sony D100
+
+Conversion:     Paul Chrostowski (pchrosto@cfl.rr.com) 4/22/01
+DAT > SHN:	PCM-R500 > Sek'd Prodif+ > Samplitude 2496 > CDWAV (no DAE)
+		
+Disc One:
+
+01:	Intro					-	00:37.01
+02:	Lie In Our Graves			-	07:34.03
+03:	Two Step				-	08:47.58
+04:	#41					-	08:44.70
+05:	Too Much				-	05:32.48
+06:	Crash Into Me				-	05:29.59
+07:	Tripping Billies *			-	06:46.56
+
+Total:						-	43:32.70
+
+Notes:
+
+* w/ John Popper

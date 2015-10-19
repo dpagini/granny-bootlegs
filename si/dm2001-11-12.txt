@@ -1,0 +1,63 @@
+Dave Matthews
+November 12, 2001
+Hanover Grand
+London, England
+
+Source:		AT4055 --> Sony TCD-D8
+Location:	Balcony, 3 feet from left Stack.
+		Scott McBurney<scott@whitemouse.fsbusiness.co.uk>
+
+Conversion:	Sony D8 > Pentium IV 1GHz > Cool Edit Pro (48kHz > 44.1kHz) > CDWAV
+		CDWAV > SHN (mkw .96f)
+		Scott McBurney<scott@whitemouse.fsbusiness.co.uk>
+
+***********************************************************************************
+************This Show is not to be MP3 Encoded!!***********************************
+***********************************************************************************
+
+
+
+Disc 1
+
+Track	|	Title				|	Length (m:s)
+-----------------------------------------------------------------------------------
+d1t01.    	Intro  					01:02
+d1t02.    	The Flintstones				00:47
+d1t03.    	When the World Ends			04:09
+d1t04.    	Where Are You Going			03:50
+d1t05.    	Bartender				06:01
+d1t06.    	Grace is Gone				04:56
+d1t07.    	I Did It				04:04
+d1t08.    	Everyday				04:16
+d1t09.    	Crush					06:38
+d1t10.    	So Much to Say				04:04
+-----------------------------------------------------------------------------------
+d1 total:	39:47
+
+
+Disc 2
+
+Track	|	Title				|	Length (m:s)
+-----------------------------------------------------------------------------------
+d2t01.    	Crash					05:41
+d2t02.    	The Stone (with Wise Men)		06:19
+d2t03.    	The Space Between			04:07
+d2t04.    	All Along the Watchtower		04:43
+
+---- 1st Encore ----
+d2t05.   	Ain’t it Funny How Time Slips Away 	03:43
+d2t06.    	The Maker				03:31
+d2t07.    	Satellite				04:26
+
+---- 2nd Encore ----    
+d2t08.    	Long Black Veil				04:45
+d2t09.    	Ants Marching				04:31
+-----------------------------------------------------------------------------------
+
+d2 total:	41:46
+
+
+
+
+Compiled by Scott McBurney on 11/16/2001
+

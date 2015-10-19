@@ -1,0 +1,56 @@
+Dave Matthews Band
+MARS Music Amphitheatre, W. Palm Beach, FL
+July 21, 2001
+
+Taper:		Paul Chrostowski
+Source:		Schoeps CCM4V cardioids > Schoeps K5LU XLR >
+		Lunatec V2 > Audio Magic Presto II RCA > Tascam DA-P1
+Location:	75° ORTF width 13' high, ~13th row right stack
+
+Conversion:     Paul Chrostowski 7/29/01
+DAT > SHN:	PCM-R500 > Sek'd Prodif+ > Samplitude 2496 > CDWAV 
+                (resampled by Prodif+ from 48KHz, no DAE)
+
+Disc One:
+
+01:	Intro					-	02:14.13
+02:	#41 (w/ Everyday)			-	13:15.48
+03:	The Space Between			-	06:18.46
+04:	Fool To Think				-	06:13.49
+05:	Don't Drink The Water (w/ Intro)	-	08:43.71
+06:	Granny					-	05:40.68
+07:	Grey Street				-	09:16.20
+
+Total:						-	51:43.15
+
+
+Disc Two:
+
+01:	Recently >				-	03:08.42
+02:	Digging A Ditch				-	06:11.47
+03:	I Did It				-	04:16.37
+04:	Angel					-	14:08.05
+05:	JTR					-	07:42.16
+06:	Crush					-	11:57.27
+07:	What Would You Say			-	06:31.37
+
+Total:						-	53:55.61
+
+
+Disc Three:
+
+01:	Long Black Veil				-	12:41.47
+02:	Pantala Naga Pampa >			-	00:42.39
+03:	Rapunzel				-	12:57.60
+	~~~Encore~~~
+04:	Waste *					-	04:11.50
+05:	Captain * (tease)			-	01:13.52
+06:	When The World Ends			-	04:00.43
+07:	All Along The Watchtower		-	12:42.08
+
+Total:						-	48:29.74
+
+
+Notes:
+
+* - Dave solo

@@ -1,0 +1,47 @@
+Dave Matthews Band
+July 19, 2000
+RFK Stadium - Washington, DC
+
+Taper:		Scott Brown <scb@dartmouth.edu>
+Source Info:	Earthworks SR-77 > Sound Devices MP-2 > Excalibur II's >
+		apogee ad1000 > D8 13th row, left stack
+
+Conversion: 	Tascam DA-20 mkII > audiowerk2 > d8
+Equip:		
+
+Track 	|		Name			|	Time (m:s:f)
+--------------------------------------------------------------------
+d1t01		Intro					02:18:16
+d1t02		JTR+					06:44:72
+d1t03		True Reflections+			08:47:41
+d1t04		Too Much				05:56:50
+d1t05		#41					11:04:21
+d1t06		Crash Into Me				06:22:49
+d1t07		Drive In, Drive Out			06:46:34
+d1t08		Grey Street				07:53:23
+d1 totals 55:54:06
+
+d2t01		Lie In Our Graves			15:10:73
+d2t02		Best of What's Around+			06:26:28
+d2t03		Long Black Veil+			12:32:53
+d2t04		Stay+					08:25:20
+d2t05		Bartender				10:16:54
+d2 totals 52:54:03	
+
+d3t01		Two Step				18:09:23
+d3t02		Ants Marching				10:13:56
+Encore:
+d3t03		Grace Is Gone				05:31:29
+d3t04		Watchtower**				10:05:44
+d3 totals 44:02:02
+
+Butch Taylor played the whole show on keys
++ with Tawatha, Cindy, and Brenda
+** with Ben Harper
+
+Compiled by:  Scott Brown on 7-21-00 <scb@dartmouth.edu>
+
+Edited by: Garrett Bastable <SweetUpNDown@aol.com>
+
+Notes: Someone knocked the stand a few seconds into true reflections, and my levels were a bit hot for the first 2 measures of Too Much. 
+It poured rain all night.  So Dave made the theme of the night "rain", injecting random lines about the weather in a few songs...

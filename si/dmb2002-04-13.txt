@@ -1,0 +1,48 @@
+Dave Matthews Band
+April 13, 2002
+HSBC Arena: Buffalo, NY
+
+source:  Schoeps MK4s->KCY active->Schoeps VMS5U->Sony M1 
+ 	6th row. stage right
+conversion: Sony M1->SGI Octane coax->SGI Sound Editor->SAMBA->Soundforge 5**->CDWAV->SHN
+	** Normalization +2db; dynamic compression applied to crowd roars
+
+Track		Title			 	Time
+
+Disc 1:
+
+01		Intro				2:10.61
+02		When The World Ends *		4:23.42
+03		What Would You Say *		6:09.19
+04		Grey Street *			7:02.54
+05		Seek Up *			16.43.23
+06		I Did It *			4:55.21
+07		You Never Know *		6:59.17
+08		Warehouse *			9:23.72
+09		The Space Between *		7:31.50
+10		Rhyme & Reason *		5:58.02
+
+Total						71:17.61
+
+Disc 2:		
+
+01		Intro				00:23.26
+02		Lie In Our Graves *		15.22:00
+03		Sleep To Dream Her -> *		4:39.18
+04		Grace Is Gone *			08:18.16
+05		So Much To Say -> *		05:.43.73
+06		Too Much *			06:49.61
+07		Pantala Naga Pampa -> *		00:40.08
+08		Rapunzel *			07.16.05
+09		Encore Break			08:18.21
+10		Intro				00:21.05
+11		Where Are You Going *		03.47.08
+12		Two Step *			09.59.13
+
+Total						71:27.95
+
+Special Guests:
+
+* Butch Taylor
+
+

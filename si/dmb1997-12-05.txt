@@ -1,0 +1,35 @@
+Dave Matthews Band (opening for The Rolling Stones)
+December 5, 1997
+Orange Bowl
+Miami, FL
+
+
+Source:		Core Sound cardioids > D8
+		Paul Chrostowski
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				00:45.28
+02:		#41				08:16.42
+03:		Two Step			08:54.39
+04:		Tripping Billies		06:13.70
+05:		All Along The Watchtower	06:53.21
+06:		Crash Into Me			06:08.33
+07:		So Much To Say ->		04:09.42
+08:		Anyone Seen The Bridge ->	01:23.39
+09:		Too Much			05:12.03
+10:		Ants Marching			07:37.35
+
+Total						55:34.52
+
+Notes:
+----------
+*	There was a 0.100 second spot of diginoise in Two Step at
+	1:20 only in the right channel.  The left channel audio
+	for that 0.100 seconds was cut and paste to the right channel.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on August 30, 2001.

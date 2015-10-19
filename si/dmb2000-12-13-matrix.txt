@@ -1,0 +1,79 @@
+Dave Matthews Band
+Madison Square Garden
+December 13, 2000
+New York City, New York
+
+Source: 	[Microtech Geffell SMS2000/200 (cards) -> Oade M148 -> Sony SBM1 -> Sony D7] + [DSBD]
+Taper: 	[Bill Lakenan] + [Anonymous]
+Mix: 	Ryan Hoyt <hoytr2@rpi.edu>
+
+
+*********************************************************************************
+************DO NOT ENCODE TO MP3, THANK YOU!!!********************
+*********************************************************************************
+
+
+Disc 1:
+Track	|	Title			|	Length
+----------------------------------------------------------------------------------
+d1t01		Intro.....				00:57
+d1t02		One Sweet World			09:51
+d1t03		Don't Drink the Water		08:01
+d1t04		Recently				05:38	
+d1t05		Grey Street			08:03	
+d1t06		Lie In Our Graves			12:08
+d1t07		Intro to Bartender--->		00:31
+d1t08		Bartender			09:38
+d1t09		Granny				04:55
+d1t10		True Reflections			07:29
+----------------------------------------------------------------------------------
+d1 total:67:11
+
+Disc 2:
+Track	|	Title			|	Length
+----------------------------------------------------------------------------------
+d2t01		Lover Lay Down#			07:35
+d2t02		So Much To Say --->		04:19
+d2t03		Anyone Seen The Bridge?--->	01:28
+d2t04		Too Much				06:21
+d2t05		Cortez The Killer@			09:42
+d2t06		Exodus@				10:07
+d2t07		Ants Marching@			08:32
+d2t08		Intro to Grace Is Gone--->		00:37
+d2t09		Grace Is Gone			05:03
+d2t10		Skipping Jam--->			01:35
+d2t11		Pantal Naga Pampa--->		00:40
+d2t12		Rapunzel				07:02
+----------------------------------------------------------------------------------
+d2 total: 63:01
+
+
+@ w/ Warren Haynes
+# Geffell sourced only
+
+Notes:
+----------------------------------------------------------------------------------
+There are a few errors in the DSBD source that I used for this mix.
+
+d1t02 at 08:14 there is a drop out on the DSBD source.  This was an 
+error on the copy I received, not on the main DSBD source.  You can
+tell this because the Geffell source still has the word "to" (from "don't 
+you love [to] swim naked").  I just dubbed the Geffell over silence in 
+the DSBD source at that point.  
+
+d2t01 was omitted from the DSBD source in circulation.  d2t02 was 
+faded in on the DSBD source, that is evident in the mix at 00:08 of 
+d2t02 as the guitar becomes much clearer.
+
+d2t04 has an error at 02:58.  Again this is because of an error on the
+DSBD source in circulation.  The part missing from the DSBD source is
+"[I got this growl in my] tummy, I'm ..."
+
+The mix between the Geffell and the DSBD source are different through-
+out the recording.  In "crowd-pleaser" songs I left the Mix at 50/50 for 
+the Geffell + DSBD.  But in more quiet songs I reduced the Geffell source
+anywhere from 30-50% of the mix so that the instrumentals would be 
+more present.
+
+
+compiled: Ryan Hoyt, 10/08/01

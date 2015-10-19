@@ -1,0 +1,49 @@
+Dave Matthews Band
+May 2 2001
+Bi-Lo Center
+Greenville, South Carolina
+
+
+Source:		Neumann ak40s > Neumann lc-3 active cables > Neumann km100s > 
+		Sonosax sx-m2 > Audio Magic X-Stream XLRs > Sonic ad2k+ @ 44.1 16ns3
+		Sec. 104, 1st row, directly in front of side of stage left stack
+		George Wang <gewwang@yahoo.com>
+
+DAT > SHN:	DA-30 mk.II > Opcode Datport > IBM Think Pad 600X >
+		Sound Forge 4.5
+					
+Disc One:
+
+01:	Intro					- 	01:34.500
+02:	Warehouse				- 	09:30.000
+03:	The Best of What's Around		- 	06:58.000
+04:	Granny					- 	05:19.500
+05:	Don't Drink the Water			-	09:01.000
+06:	When the World Ends			-	04:18.000
+07:	JTR					-	06:41.500
+08:	Angel					-	05:42.500
+09:	So Much to Say ->			-	04:20.500
+10:	(Anyone Seen the Bridge?) ->		-	01:27.340
+11:	Too Much				-	04:28.000
+12:	Everyday (#36)				-	09:32.160
+
+Total:						-	68:53.000
+
+Disc Two:
+
+01:	Disc Two Intro				-	00:13.000
+02:	I Did It				-	04:09.000
+03:	True Reflections			-	08:20.500
+04:	If I Had It All				-	04:38.000
+05:	What You Are				-	07:09.000
+06:	Ants Marching				-	15:08.500
+07:	Waste					-	04:22.000
+08:	Grace Is Gone				-	06:58.500
+09:	All Along the Watchtower		-	09:33.500
+10:	The Maker *				-	04:33.000
+
+Total:						-	65:05.000
+
+*	Filler: Opening Band - Terrence Simien with Dave on vocals
+
+*  compiled by George Wang on 5-7-2001

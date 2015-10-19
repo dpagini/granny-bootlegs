@@ -1,0 +1,21 @@
+Dave Matthews
+March 12, 2001
+WHFS Broadcast
+Washington, DC
+
+Source: 	DFM (Sony STR-AV480 Reciever -> EgoSys U2A -> .Wav)
+		Bill Lakenan <blakenan@us.net>
+
+WAV > SHN:	Applied 15KHz Low-pass filter (FM is only noise above 15K) using SoundForge
+		Tracked with CD-Wav 1.52
+
+Disc 1:
+01: <Intro/Interview>
+02: The Space Between
+03: <Interview>
+04: What You Are
+05: <Interview>
+06: Everyday
+07: <Interview>
+08: Grace is Gone
+

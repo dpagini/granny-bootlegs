@@ -1,0 +1,65 @@
+Dave Matthews Band
+December 3, 1998
+Madison Square Garden - New York, NY
+
+Taper:		Steve Walkuski
+Source Info:	mk4s > kc-5 actives > cmc-5 > sonosax sm-x2 > sbm-1 > d-8
+Position:	18 row dead center stand 15 feet
+
+Conversion:	Steve Warzala
+CD>DAE>SHN: 	Mike Cheung using Plextor 4/12 and EAC 0.85b4
+
+Disc 3 Filler:	Bela Fleck and the Flecktones opening set
+
+Track 	|		Name			|		Time (m:s)
+--------------------------------------------------------------------------
+d1t01		Jimi Thing					13:45
+d1t02		Warehouse (Stop Time Intro) *			09:37
+d1t03		Lie In Our Graves *^				18:02
+d1t04		Minarets Intro					01:07
+d1t05		Minarets (Tomorrow Never Knows) ^		09:57
+d1t06		#41 (Sojourn of Arjuna) *^$			18:38
+d1 totals 71:07
+
+d2t01		Say Goodbye Intro				02:56
+d2t02		Say Goodbye					06:53
+d2t03		Drive In, Drive Out *				07:35
+d2t04		The Last Stop Intro				01:22
+d2t05		The Last Stop *^				11:34
+d2t06		Crash Into Me (Dixie Chicken) *			09:01
+d2t07		Don't Drink the Water *^			07:00
+d2t08		Leroi Solo					03:44
+d2t09		Pantala Naga Pampa -->				00:40
+d2t10		Rapunzel *					13:10
+d2t11		E: I'll Back You Up (Dave, Carter, Stefan, Tim)	05:21
+d2 totals 69:20
+
+d3t01		E: Warren Haynes Intro				00:57
+d3t02		E: Stefan Intro -->				01:31
+d3t03		E: All Along the Watchtower *@			13:46
+		********** FILLER **********
+d3t04		Bela Fleck and the Flecktones intro by Dave	00:42
+d3t05		Throwdown at the Hoedown			05:59
+d3t06		Christmas Medley				06:04
+d3t07		Flecktones Intro -->				01:14
+d3t08		Let Me Be the One				06:03
+d3t09		Big Country					08:46
+d3t10		Communication (w/ Dave Matthews)		06:44
+d3t11		Sinister Minister				08:57
+d3 totals 60:48
+
+Entire set with Tim Reynolds
+* w/ Butch Taylor on keys
+^ w/ Bela Fleck on banjo
+$ w/ Jeff Coffen on saxophone
+@ w/ Warren Haynes on electric guitar
+
+Filler Notes: 
+volume level for filler is slightly louder than DMB show
+a quick skip on d3t04 @ 00:27 when Dave says "Bela Fleck"
+
+
+
+
+
+

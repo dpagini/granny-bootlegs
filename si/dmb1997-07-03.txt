@@ -1,0 +1,46 @@
+Dave Matthews Band
+July 3, 1997
+Wolf Mountain
+Park City, UT
+
+
+Source:		Schoeps MK4 > SBM1 > DAP1
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				00:53.41
+02:		Two Step			08:57.57
+03:		Best Of What's Around		06:11.15
+04:		Song That Jane Likes		05:02.38
+05:		#41 ->				09:28.56
+06:		Say Goodbye			09:55.60
+07:		Rhyme And Reason		07:01.71
+08:		Jimi Thing			14:24.03
+09:		Lie In Our Graves		08:46.55
+
+Total						70:42.21
+
+Disc Two:
+
+01:		Beauty Of Wynona		06:00.23
+02:		Recently (some do, some don't)	09:46.51
+03:		Crash Into Me			05:57.61
+04:		So Much To Say ->		04:07.06
+05:		Anyone Seen The Bridge ->	01.21.19
+06:		Too Much			05:34.45
+07:		Tripping Billies		10:19.07
+08:		E:  Leave Me Praying		08:08.52
+09:		E:  Ants Marching		08:58.29
+
+Total						60:14.03
+
+Notes:
+----------
+*	There are a several pops throughout the show.  They sound like something hitting the
+	mic stand and not like anything digital or errored in nature.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on April 20, 2001.

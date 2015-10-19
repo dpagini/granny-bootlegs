@@ -1,0 +1,47 @@
+Bela Fleck & The Flecktones
+The Peace Center
+Greenville, SC
+Tuesday August 14, 2001
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		Neumann ak40s > Neumann lc-3 active cables > Neumann km100s > 
+		Sonosax sx-m2 > Audio Magic X-Stream XLRs > Sonic ad2k+ @ 44.1
+		(Set I: 16nn2, Set II: 16ns3)
+Location:	Orch Row S Seat 27, 18th row center
+
+DAT > SHN:	DA-30 mk.II > Opcode Datport > IBM Think Pad 600X >
+		Sound Forge 4.5
+
+Note:		To be compliant, this show is broken into three discs.  If you
+		have 80-min discs available, please combine disc 2 and disc 3.
+
+Disc One:
+
+01:	Earth Jam			-	08:40.493
+02:	Puffy				-	13:29.173
+03:	Waltz				-	09:59.333
+04:	Bil Mon				-	08:10.853
+05:	Victor solo			-	09:34.480
+06:	Cheeseballs in Cowtown		-	07:59.666
+
+Total:					-	57:54.000
+
+Disc Two:
+
+01:	Set II Intro			-	00:13.000
+02:	Futch solo			-	12:02.000
+03:	Sherpa				-	12:29.226
+04:	Imagine This			-	14:35.000
+05:	Fminor Tune			-	08:59.773
+
+Total:					-	48:19.000
+
+Disc Three:
+
+01:	Moment So Close			-	08:44.226
+02:	Bela solo			-	14:31.173
+03:	Hoedown (Stomping Grounds)	-	08:15.600
+
+Total:					-	31:31.000
+
+compiled by George Wang on 8-17-2001

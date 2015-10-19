@@ -1,0 +1,22 @@
+Bela Fleck and the Flecktones
+Air Canada Centre, Toronto, Canada
+April 19, 2002
+
+Taper:		Mike Vernal <vernal@fas.harvard.edu>
+Source Info:	Neumann KM140s > Lunatec V2 > Apogee AD-1000
+Location:	Section 110, Row 12, Seats 1 & 2
+
+DAT > SHN:	Sony PCM-M1 > Emagic EMI 2|6 > PowerBook G4/500
+		> Sound Edit 16 > shntool
+
+Disc One:
+
+01:	???					- 07:37:70
+02:	???					- 09:58:58
+03:	???					- 07:41:22
+04:	Big Country				- 08:00:74
+05:	New Song 				- 08:08:13
+06:	Hoedown					- 06:30:73
+
+Total:						- 48:00:10
+

@@ -1,0 +1,42 @@
+Dave Matthews Band
+Meadows Music Theatre
+Hartford, CT
+August 27, 2000
+
+Taper:		Henry Hart <hh31683@cp.appstate.edu>
+Source Info:	Earthworks SR71 > MP-2 (<80Hz rolloff) > DA-P1
+Location:	12th row left section a bit to the left of the row (seats 317, 318)
+
+DAT > CD:	David Baty <dbaty@usermail.com>
+Equip:		D8 > Montego II+ > CEP 1.1 > CDWAV
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Intro					01:47.64
+d1t02		Dancing Nancies				10:16.43
+d1t03		Seek Up -->				16:35.15
+d1t04		PNP intro -->				05:56.05
+d1t05		Linus & Lucy -->			04:10.54
+d1t06		Pantala Naga Pampa -->			00:41.15
+d1t07		Rapunzel				08:18.61
+d1t08		I'll Back You Up			05:57.11
+d1 totals 53:44.43
+
+d2t01		Busted Stuff				07:20.54
+d2t02		Recently				04:03.36
+d2t03		Raven					07:35.52
+d2t04		The Maker				07:35.12
+d2t05		Grey Street				07:37.55
+d2t06		Grace Is Gone				06:02.70
+d2t07		Say Goodbye				11:58.53
+d2 totals 52:16.07
+
+d3t01		Bartender				09:56.07
+d3t02		JTR					07:01.14
+d3t03		Ants Marching				14:52.36
+d3t04		The Stone				07:56.71
+d3t05		Drive In, Drive Out			06:27.30
+d3 totals 46:16.83
+
+entire show with Butch Taylor

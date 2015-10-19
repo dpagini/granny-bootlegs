@@ -1,0 +1,50 @@
+Dave Matthews Band
+Trinity College
+Hartford, CT
+November 13, 1993
+
+Taper:		unknown
+Source Info:	dSBD
+
+DAT > CD:	David Baty <dbaty@usermail.com>
+Equip:		D8 > Montego II+ > CEP 1.1 > CDWAV
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+Soundcheck:
+d1t01		unknown song *				07:05.34
+Set I:
+d1t02		One Sweet World				09:19.15
+d1t03		Tripping Billies %			06:21.30
+d1t04		Minarets -->				07:49.54
+d1t05		Blue Water Baboon Farm -->		12:04.62
+d1t06		Typical Situation			09:45.32
+d1t07		Lover Lay Down				08:32.15
+d1t08		True Reflections			06:56.72
+d1 totals 67:57.89
+
+Set II:
+d2t01		Set II Intro				00:55.12
+d2t02		Say Goodbye ^				07:24.72
+d2t03		Ants Marching				07:18.31
+d2t04		Satellite				05:33.46
+d2t05		What Would You Say?			09:31.09
+d2t06		Jimi Thing -->				12:54.01
+d2t07		Seek Up					15:17.45
+d2t08		Watchtower tease			00:36.72
+d2 totals 59:33.38
+
+diginoise in d1t01 at 3:21-3:25, 3:40-3:45
+	     d1t03 at 5:04, 6:08
+* I had three different sources of this show at my disposal.  All
+  of them had diginoise during the soundcheck, at different spots.
+  However, all of them ended up having the same diginoise at the
+  aforementioned spots.
+% Dave introduces the next song as Granny but it most definately
+  isn't.  dmbta.nancies.org lists both Granny and Help Myself
+  as proceeding Minarets.  I assume the songs were not recorded on
+  this source, or cut afterwards.  Also, there was about 10 seconds
+  of silence between Billies and Minarets which I deleted.
+  All three sources were missing these songs.
+^ Dave solo

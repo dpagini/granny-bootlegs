@@ -1,0 +1,54 @@
+Dave Matthews Band
+Oakland Arena, Oakland CA
+October 31, 1998
+
+Taper:           unknown
+Source:          Schoeps mk5 > BRbox > SBM-1 > D7 (30' from stage)
+
+CD > WAV > SHN:   EW <eric71@wharton.upenn.edu>
+
+Disc One:
+
+01:  Dont' Drink the Water                   -            10:47:25
+02:  Leroi Intro -->                         -            03:09:13
+03:  Pantala Naga Pampa -->                  -            00:40:09
+04:  Rapunzel                                -            08:01:70
+05:  Crush                                   -            12:14:71
+06:  Two Step                                -            12:46:01
+07:  The Dreaming Tree                       -            13:33:69
+08:  Warehouse                               -            09:17:54
+
+Total:                                       -            70:33:12
+
+Disc Two:
+
+01:  Tripping Billies                        -            07:17:47
+02:  I'll Back You Up *                      -            05:51:71
+03:  Jimi Thing *                            -            13:33:58
+04:  Carter Intro -->                        -            01:47:17
+05:  Halloween                               -            06:06:66
+06:  So Much to Say -->                      -            04:11:28
+07:  Anyone Seen The Bridge? -->             -            01:23:13
+08:  Too Much (Fame)                         -            05:34:04
+09:  Crash Into Me                           -            06:56:38
+10:  Greg and Carter Jam -->                 -            04:55:14
+11:  All Along The Watchtower                -            09:54:64
+
+Total:                                       -            67:34:45
+
+entire set with Tim Reynolds and Greg Howard
+* - with Joshua Redman on tenor saxophone
+
+comments:
+
+d1t01:    03:34 the levels are adjusted for 1 sec (at the beginning of DDTW)
+d1t05:    00:23 sounds like the mics got hit
+
+Since the Nak sounrce also had the above anomalies, it could be from
+the onstage mix.
+
+d1t06:    11:12 sound drops for 1/4 sec
+d1t06:    11:20 sound drops again for 1/5 sec
+
+lineage:
+Michael Vernal > Adam Gromfin > Eric Weng > DAE > SHN

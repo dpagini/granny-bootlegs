@@ -1,0 +1,29 @@
+dave matthews band
+5/19/95
+sam boyd silver bowl
+las vegas, NV
+
+taper:  unknown
+source:  DAUD
+
+conversion:  allan chen (taper@kaiyen.com)
+using:  sony pcm-r300>sek'd prodif plus>samplitude (48>44.1)>cdwav>mkwact
+
+**no DAE.  dat>wav>shn
+
+cd1
+---------
+1 - Seek Up		12:14:20
+2 - Dancing Nancies	09:01:12
+3 - Satellite		05:24:62
+4 - Minarets		08:02:13
+5 - Typical Situation	10:00:06
+6 - Say Goodbye		08:03:33
+7 - Recently		08:53:17
+
+Comments
+--------
+very solid recording.  detail isn't really compromised in any one area, though the mid-highs seem a bit thin.  it doesn't have an overly "airy" feeling you get in some of the huge venues they play in now, and there is so little crowd noise you have to wonder if it's a board at times, except for the thin-ness.  
+
+compiled by allan chen (taper@kaiyen.com) for Digital DMB Source Round 8
+12/15/00

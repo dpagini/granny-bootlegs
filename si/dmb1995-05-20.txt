@@ -1,0 +1,30 @@
+dave matthews band
+5/20/95
+sam boyd silver bowl
+las vegas, NV
+
+taper:  unknown
+source:  DAUD
+
+conversion:  allan chen (taper@kaiyen.com)
+using:  sony pcm-r300>sek'd prodif plus>samplitude (48>44.1)>cdwav>mkwact
+
+**no DAE.  dat>wav>shn
+
+cd1
+---------
+1 - Intro			00:28:31
+2 - Don't Burn the Pig		08:26:18
+3 - Tripping Billies		05:08:42
+4 - Warehouse			08:24:50
+5 - Jimi Thing			12:39:58
+6 - Drive In Drive Out		06:29:67
+7 - #36				09:02:13
+8 - Ants Marching		06:35:37
+
+Comments
+--------
+very solid recording.  the mid-highs are not as thin as they are in the previous night's recording, but the overal dynamics and s/n seems a tad bit lower.  it doesn't have an overly "airy" feeling you get in some of the huge venues they play in now, and there is so little crowd noise you have to wonder if it's a board at times, except for the thin-ness.  
+
+compiled by allan chen (taper@kaiyen.com) for Digital DMB Source Round 8
+12/15/00

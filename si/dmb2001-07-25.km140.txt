@@ -1,0 +1,64 @@
+Dave Matthews Band
+AmSouth Amphitheatre
+Antioch, TN 
+July 25, 2001
+
+Taper:		Craig Willoughby
+Source:		Neumann ak40s > Neumann lc-3 active cables > Neumann km100s >
+		Lunatec V2 > Audio Magic Presto II XLRs > Sonic AD2K+ (16NS2)
+Location:	9th row straight right stack
+
+Conversion:	Matt Pfeil (Mattz62@juno.com)	
+DAT > SHN:	Sony DTC-ZE700 (optical) --> M-Audio Delta DiO2496 (PII 450/Win98)
+		CD-Wave --> mkw
+			
+Disc One:
+
+01:	Intro					-	01:51:24
+02:	Tripping Billies *			-	07:46:63
+03:	When The World Ends *			-	04:10:11
+04:	So Much To Say *			-	04:23:18
+05:	Anyone Seen the Bridge *		-	01:27:63
+06:	Too Much *				-	05:24:22
+07:	Big Eyed Fish 		 		- 	06:36:26
+08:	Bartender *+				-	19:00:29
+09:	So Right *				-	08:37:12
+
+Total:						-	59:33:43
+
+Disc Two:
+
+01:	Sleep To Dream Her *~$			-	05:09:13
+02:	Grace Is Gone *~$			-	08:56:67
+03:	Captain					-	00:55:23
+04:	#41 *~$					-	30:24:31
+05:	Don’t Drink the Water *~$		-	07:29:13
+06:	Digging a Ditch 			-	05:32:65
+07:	I Did It *#				-	03:54:65
+
+Total:						-	62:33:71
+
+Disc Three:
+
+01:	Angel *#				-	14:44:05
+02:	Fool To Think *#			-	04:56:70
+03:	JTR *#					-	06:40:66
+04:	Stay *#					-	07:32:73
+05:	Intro					-	00:34:36
+06:	#40					-	01:07:53
+07:	Aint It Funny How Time Slips Away 	- 	04:23:68
+08:	The Space Between *$#			-	04:58:25
+09:	Intro					- 	02:54:36
+10:	Watchtower *~$				-	11:03:68
+
+Total:						-	59:15:50
+
+* Butch Taylor
++ Jeff Coffin
+~ Bela Fleck
+$ The Flecktones
+# Tawatha, Cindy & Brenda
+
+
+
+

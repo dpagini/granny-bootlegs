@@ -1,0 +1,51 @@
+Dave Matthews
+Aladdin Hotel
+Blue Room Jazz Club
+Las Vegas, NV
+May 26, 2001
+
+
+Source:		SBD
+
+Conversion:	CD  > wav (EAC 0.90 Beta 3)
+		wav > SHN (MKW 0.97 Beta 1)
+
+
+
+***** Seektables Appended to SHN *****
+
+
+Disc 1:
+
+01:	Intro							02:11:33
+02:	When The World Ends					05:13:68
+03:	Bartender						04:26:07
+04:	The Space Between					03:50:57
+05:	I Did It (B-52's Style Tease)				00:51:34
+06:	The Stone (wise man says outro)				07:20:55
+07:	Don't Drink The Water (this land is your land outro)	06:26:26
+08:	Grace is Gone						03:42:21
+09:	Q&A with the audience					02:40:09
+10:	Watchtower						04:11:16
+
+						Total:		41:15	
+
+
+
+
+Notes:
+
+- Station Call letters edited out at approx. 3:55 on track 2 and at the beginning of track 5
+
+- Source disc takes a commercial break after Bartender and at approx 5:09 on track 07. Thus the audio doesn't flow perfectly at these points.
+
+- About 1 minute of the Q&A was edited off the disc I recieved compared to what was played on the Star98.7 KYSR LA webcast after the staples show 05-15-2002
+
+
+
+Thanks to Joel for a copy of the master disc.
+
+
+compiled by: Brian Yee <brian80@gmx.net>
+07-11-2002
+				

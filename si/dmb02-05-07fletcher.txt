@@ -1,0 +1,62 @@
+Dave Matthews Band
+May 7, 2002
+American Airlines Center
+Dallas, Texas
+
+Taper: Jonathan Fletcher <j86442@yahoo.com>
+Source: Oktava mc012 (card) > Samson Mixpad4 > M1
+Location: Row E Right Stack @ ~13'
+Conversion: Fred Goodwin, Tascam Da302->SEKD Prodif+ ->CDWav ->MKW (SHN) no CD
+
+Do not convert to MP3 or you will contract Shigellosis
+
+**This show fits on 80 min discs.  If you put it on 74 min discs you may contract Shigellosis
+
+Disc 1
+
+1) Too Much *
+2) I Did It *
+3) Rhyme & Reason *
+4) You Never Know *
+5) The Space Between *
+6) Grey Street *
+7) What Would You Say *
+8) Where Are You Going *
+9) What You Are *
+10)One Sweet World *
+
+Disc 2
+
+1) Crush *
+2) Drive In Drive Out *
+3) Dont Burn The Pig *
+4) Two Step *
+5) Sleep To Dream Her *
+6) Ants Marching *
+encore:
+7) Everyday +
+8) Tripping Billies *
+
+* with Butch Taylor on keys 
++ Dave solo 
+
+MD5 should look like this
+
+6572ce5b4728becece0079837a3ba349 *DMB02-05-07d1t9Fletch.shn
+43a9e863392a9dad5a6e80364485db40 *DMB02-05-07d1t2Fletch.shn
+fd107c448637dc8b13f0990ee27cc779 *DMB02-05-07d1t3Fletch.shn
+1c4e8c76ee527044310ceff0d3223ad7 *DMB02-05-07d1t4Fletch.shn
+fab480bfd8f660699ab002e863ff39b9 *DMB02-05-07d1t5Fletch.shn
+1fa6290dd6f57b3c6e32edad945c7ac9 *DMB02-05-07d1t6Fletch.shn
+08ac07648b8377f17b9d50eff86008ff *DMB02-05-07d1t7Fletch.shn
+52163be375fd48b19e7e30cde70bd1c0 *DMB02-05-07d1t8Fletch.shn
+eef283ee790c34b0654e7f1fc97ea47a *DMB02-05-07d1t1Fletch.shn
+d5125cf260cc2b92c8048b5434a32226 *DMB02-05-07d1t10Fletch.shn
+73718e47d967897eec41a3e166abf56d *DMB02-05-07d2t1Fletch.shn
+3fe8c805070ddfe67416796f2722af32 *DMB02-05-07d2t2Fletch.shn
+c799788c516d267b1d7a9794e284239d *DMB02-05-07d2t3Fletch.shn
+7df08f4c9e839450508ca9b2e20c36f5 *DMB02-05-07d2t4Fletch.shn
+11c34b99b419106410dcd68a2be06edc *DMB02-05-07d2t5Fletch.shn
+f521161b52142b7f770efa8af22a8ff0 *DMB02-05-07d2t6Fletch.shn
+2e7062246a576cd7182918a59e5743eb *DMB02-05-07d2t7Fletch.shn
+265e924ba46fb7c37212b8696a427ef9 *DMB02-05-07d2t8Fletch.shn

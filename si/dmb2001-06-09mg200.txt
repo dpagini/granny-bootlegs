@@ -1,0 +1,54 @@
+Dave Matthews Band
+June 9, 2001
+RFK Stadium
+Washington, DC
+
+Source: 	DAud (Microtech Geffell SMS2000/200 (cards) -> 
+		      Oade M148 -> Sony SBM1 (24-bit Oade Mod) -> Sony D7)
+Location: 	Section A3; Row 13 Seat 19, DFC!, XY90 @ 7 feet
+Taper: 		Bill Lakenan <blakenan@us.net>
+Conversion: 	Archive Python DDS/DAT2WAV > .wav > CD-WAV/mkwACT > .shn
+		(Direct DAT extraction, no soundcard)
+Converted by: 	Bill Lakenan <blakenan@us.net>
+
+
+Disc 1:
+01: <Intro>
+02: When The World Ends *
+03: I Did It *+, Captain (tease - no words)
+04: Best of Whats Around *+
+05: Satellite 
+06: Fool To Think *+
+07: #41 (Everyday Outro)
+
+Disc 2:
+01: Angel *+
+02: Two Step *
+03: Fish Monkey Man -->
+04: Bartender 
+05: Everyday *+
+
+Disc 3:
+01: Pantala Naga Pampa * --> Rapunzel *
+02: Digging a Ditch 
+03: The Space Between *+
+04: True Reflections *+
+05: Stay *+
+06: <encore break>
+07: If I Had It All *+
+08: Tripping Billies
+
+* Butch Taylor on keys
++ Tawatha, Cindy & Brenda
+
+Notes: 
+----------
+*	I ran the stand very low at the requeest of the video folk who were 
+	shooting from directly behind my seats.  The stand began at roughly 
+	6 feet and I was able to creep up to about 8 by the end of the show.  
+
+*	Also note that there is another source fom my stand.  John Stansfield 
+	ran KM140> Sonosax > AD2K+ > M1 from my stand.
+
+*	This show will fit on two CDs if one is an 80 minute CD. 
+	Just split after Two Step.

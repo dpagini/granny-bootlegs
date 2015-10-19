@@ -1,0 +1,41 @@
+Dave Matthews Band
+MTV All Access
+West Palm Beach, FL
+July 5 and 6 2002
+Aired on MTV2: July 18, 2002
+
+
+Taper: 			Alex Wolsky 
+Source: 		Satellite > VCR > VHS
+
+MPEG Conversion:	Brian Yee
+			VHS > Canon DV Cam > IEEE 1394 > Computer (DV avi)
+			DV AVi > Vegas Video 3.0 > VCD compliant MPEG
+
+
+Track
+---------
+
+Show Intro		00:00 - 00:35
+What You Are		00:35 - 06:40
+Where Are You Going	06:40 - 10:07
+Too Much		10:07 - 14:42
+When The World Ends	14:42 - 18:22
+Grace is Gone		18:22 - 25:16
+I Did It		25:16 - 28:55
+What Would You Say	28:55 - 34:24	
+Tripping Billies	34:24 - 40:45
+
+
+Notes:
+
+-  at 30:04 there is a hiccuip in the audio.  This was on the VHS I recieved.
+-  everything before Too Much is off of MTV.  The rest is from MTV2.
+
+
+------------
+Compiled on July 23th, 2002
+by Brian Yee <brian80@gmx.net>
+
+
+

@@ -1,0 +1,47 @@
+Dave Matthews Band
+4-20-02
+Corel Centre
+Ottawa, ON
+
+Taper: 	Scott Brown <scb@dartmouth.edu>
+Source: DPA (B&K) 4022s > Sound Devices MP-2 > Audio Magic Sorcerers XLRs > 
+	Sonic AD2k+ @ 16NS3, +18, 44.1khz > Emagic EMI 2|6 > Apple iBook > 
+	Coaster > WaveBurner Pro > SHN
+
+DO NOT ENCODE TO MP3
+
+Disc 1
+01 Intro				03:31:52
+02 Don't Drink the Water *		08:07:05
+03 Rhyme and Reason			06:39:38
+04 You Never Know			06:55:01
+05 When The World Ends			04:04:65
+06 One Sweet World			09:36:16
+07 Big Eyed Fish			06:28:52
+08 Bartender				11:45:07
+
+Disc 2
+01 Disc 2 Intro				00:57:51
+02 I Did It				05:17:68
+03 Grey Street				06:40:67
+04 If I Had It All			04:35:53
+05 The Space Between			05:35:37
+06 The Stone				08:53:10
+07 Too Much				05:26:26
+08 Raven				07:44:67
+
+Disc 3
+01 #41 $				38:55:58
+Encore
+02 Aint It Funny How Time Slips Away	04:08:21
+03 Where Are You Going			04:29:28
+04 Tripping Billies			07:02:30
+
+* with Bela Fleck
+$ with Bela Fleck and the Flecktones
+
+notes: DMB security came by and searched my bag for an IEM receiver during 
+If I Had It All, and he grabbed my preamp by the left channel knob.  It 
+spiked for 10 seconds, I've edited that 10 seconds to fix it.
+
+compiled on 4-20-02

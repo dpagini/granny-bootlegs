@@ -1,0 +1,45 @@
+Dave Matthews Band
+7-16-02
+Tweeter Center
+Camden, NJ
+
+Taper:    Scott Brown <scb02@alum.dartmouth.org>
+Source:   DPA (B&K) 4022s > Sound Devices MP-2 > Audio Magic Sorcerer XLRs > 
+          Hosa XLR splitter* > Apogee Mini-Me @ 16/44.1 > Sony D100
+Location: Pit 4, seat 46
+DAT> SHN: Sony D8 > Emagic EMI 2|6 > Apple iBook > Coaster 1.1.3 > 
+          SoundEdit16 2.07 > shntool 1.01
+
+* split mp2 to Mini-Me and AD2k+
+
+DO NOT ENCODE TO MP3
+
+
+Disc 1     78:26.58
+
+01 Intro                  01:48.64
+02 The Stone              09:26.14
+03 Captain                06:09.50
+04 You Never Know         08:11.67
+05 Grey Street            07:31.02
+06 What Would You Say     06:51.48
+07 Kit Kat Jam            06:20.60
+08 Fool to Think          05:31.47
+09 When the World Ends    05:00.42
+10 Bartender >            14:05.72
+11 Grace is Gone          07:26.42
+
+
+Disc 2     73:09.49
+
+01 One Sweet World       10:11.67
+02 Crush                 13:55.69
+03 Loving Wings >        06:43.07
+04 Where Are You Going   04:17.63
+05 Watchtower            18:25.25
+Encore:
+06 Gravedigger           04:58.25
+07 Two Step              14:02.18
+
+
+compiled by scott brown on 7-17-02

@@ -1,0 +1,40 @@
+Dave Matthews Band
+8 April 2002
+Fleet Center
+Boston, Massachusetts
+
+Taper: Chris Jones <jonescx@bc.edu>
+Source: DPA 4011 > DPA AO0182 XLR > Apogee Trak2 (@ 24/44.1) > 
+Canare DA-206 AES-S/PDIF Interconnect > Metric Halo Mobile I/O 2882
+ +DSP FireWire Interface (@ 24/44.1) > Apple iBook G3/600 > 
+MOTU DP 3.02
+Location: Section F Row 1 Seats 1 + 2
+HD > .shn: Apple iBook G3/600 > Apple Power Mac G4 DP800 > DP 3.02 > 
+shntool 1.01
+
+d1t01  Introduction
+d1t02  So Much To Say*
+d1t03  When The World Ends*
+d1t04  Granny*
+d1t05  Drive In Drive Out*
+d1t06  Lover Lay Down*
+d1t07  Too Much*
+d1t08  Grace Is Gone*
+d1t09  Rhyme And Reason*
+d1t10  Lie In Our Graves*
+
+d2t01  Digging A Ditch*
+d2t02  Grey Street*
+d2t03  Warehouse*
+d2t04  Where Are You Going*
+d2t05  I Did It*
+-----
+d2t06  Intro To...*
+d2t07  The Space Between*
+d2t08  What Would You Say*
+
+* Featuring Butch Taylor
+^ First Time Played
+
+Compiled by Chris Jones <jonescx@bc.edu>
+9 April 2002

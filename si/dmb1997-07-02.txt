@@ -1,0 +1,60 @@
+Dave Matthews Band
+July 2, 1997
+Red Rocks Amphitheatre
+Morrison, CO
+
+
+Source:		AKG 480(ck61) > Lunatec 316 > Apogee ad1000 > HHb
+		Marc Nutter
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				01:50.51
+02:		Two Step			08:46.46
+03:		Jimi Thing			13:08.05
+04:		Dancing Nancies ->		09:58.61
+05:		Warehouse (stop time)		09:20.52
+06:		Recently #			11:24.32
+07:		What Would You Say #		06:50.29
+
+Total						61:19.51
+
+Disc Two:
+
+01:		Minarets (scat) ->		08:01.61
+02:		Typical Situation		13:59.00
+03:		Pay For What You Get		07:00.66
+			(Norwegian Wood)
+04:		impromptu "camera" jam		02:32.42
+05:		So Much To Say ->		04:06.22
+06:		Anyone Seen The Bridge ->	01.22.51
+07:		Too Much			06:02.29
+
+Total						43:05.46
+
+Disc Three:
+
+01:		Crash Into Me			06:21.46
+02:		#41 ->				09:23.56
+03:		Ants Marching			13:27.48
+04:		E:  Leave Me Praying		08:16.63
+05:		E:  Tripping Billies		05:57.48
+
+Total						43:27.36
+
+#	with John Popper on harmonica.
+
+Notes:
+----------
+*	The impromptu jam was so that Dave could take photos
+	of the crowd with Leroi's camera.  Dave asked Fenton
+	to turn all the lights on and the crowd went crazy!
+*	There was a 0.05 second diginoise spot in Ants.  I
+	cut and paste the right channel to the left channel
+	to fix the diginoise.  This was at 0:05 in Ants.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on August 19, 2001.

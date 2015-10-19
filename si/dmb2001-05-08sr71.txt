@@ -1,0 +1,46 @@
+Dave Matthews Band
+May 8, 2001
+Thompson-Boling Arena
+Knoxville, TN
+
+
+Source:		Earthworks SR-71 > MP-2 > ad500 > D8
+		Henry Hart
+
+Conversion:	DA-P1 > COAX/Toslink converter > Zoltrix > Nightengale Toslink in >
+		Cool Edit Pro > CDWav > MKWact
+		Henry Hart
+
+Disc One:
+
+01.	Intro
+02.	When The World Ends
+03.	Granny
+04.	Warehouse
+05.	Angel
+06.	Grey Street
+07.	What You Are
+08.	Jimi Thing
+09.	Bartender
+10.	JTR
+
+Disc Two:
+
+01.	Everyday
+02.	If I Had it All
+03.	What Would You Say?
+04.	Grace Is Gone
+05.	So Much To Say ->
+06.	Anyone Seen the Bridge ->
+07.	Too Much
+08.	All Along the Watchtower
+09.	Angel From Montgomery
+10.	Tripping Billies
+
+Notes:
+----------
+*	During "What Would You Say?" I accidentally bumped the left channel knob on the
+	ad500.  The level was red hot for about a minute during the solos at the end.  I
+	fixed it as best as I could in Cool Edit.
+
+*	Special thanks to Scott McPherrin for the ad500 and Dan Troy for his D8.

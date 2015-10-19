@@ -1,0 +1,62 @@
+Dave Matthews Band
+July 11, 2001
+Folsom Field, Boulder, CO
+
+Taper: 	Joshua Popejoy <jpopejoy@usermail.com>
+Source: AT853 > Sp BrBox @ 95 Hz > Sharp 722/MT15
+
+Location: 6th row directly infront of left stack, 17' high
+
+Conversion: Sony MDS-JE510 > Turtle Beach Montego II+ > Sound Forge XP 4.5 > 
+	    CDWAV > SHN
+
+WAV > SHN using mkwACT 0.96f
+
+
+Disc 1:
+
+01:	Intro					00:31.32
+02:	JTR*+					08:11.24		
+03:	When the World Ends*			04:19.36
+04:	So Right*				06:36.04		
+05:	Big Eyed Fish >				07:00.74
+06:	Bartender				11:24.18
+07:	What You Are*				08:00.01
+08:	Crash*					06:29.32
+
+Disc 2:
+
+01:	Everyday*+				10:12.01
+02:	I Did It*+				04:29.20
+03:	If I Had it All*+			05:04.74
+04:	Angel*+					15:05.21
+05:	Warehouse*				09:24.37
+06:	Recently (Some People Do) >		04:12.42
+07:	Digging A Ditch				05:44.12
+
+Disc 3:
+
+01:	What Would You Say			06:15.44
+02:	Stefan Solo >				00:58.62
+03:	Watchtower*				09:33.85
+04:	Space Between*+				05:12.52
+05:	Stay*+					12:04.41
+Encore:
+06:	Two Step* >				09:16.03
+07:	Ants Marching*				07:58.06
+
+
++ w/ Lovely Ladies
+* w/ Butch Taylor
+
+
+Notes:
+----------------------------------------------------------------------
+Was planning on borrowing a friend's D7.  The DAT wasn't working during DDTW, 
+so after the song I switched to the MD's.  I know it sucks, but I was the only
+one FOB above head-heigth.  JTR makes a better opener anyway ;)  The wind was pretty strong 
+all night.  It got quite a bit stronger around Space Between.  I used 2 windscreens to 
+help reduce the wind noise.  You can still hear the wind some.
+
+compiled by Joshua Popejoy
+07/16/01

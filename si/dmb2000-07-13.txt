@@ -1,0 +1,49 @@
+Dave Matthews Band
+Giants Stadium, East Rutherford, NJ
+July 13, 2000
+
+Taper:		Mike Vernal <vernal@fas.harvard.edu>
+Source:		neumann ak40s > neumann lc-3 active cables > neumann km100s >
+		Lunatec V2 > Audio Magic Excalibur-II XLRs > Apogee AD-1000
+Location:	8th row, stage right stack
+
+DAT > SHN:	PCM-R500 > Audiomedia III/Powermac G3/233 > Pro Tools 4.3.2
+		Panasonic 7502 (burn/extract)
+
+Disc One:
+
+01:	Intro					-	01:55:20
+02:	Seek Up					-	20:21:70
+03:	Pantala Naga Pampa			-	00:41:60
+04:	Rapunzel				-	08:42:72
+05:	Rhyme & Reason				-	07:24:29
+06:	Bartender				-	08:33:70
+07:	Dancing Nancies				-	10:34:26
+
+Total:						-	58:16:46
+
+
+Disc Two:
+
+01:	Best of What's Around			-	07:31:04
+02:	Raven					-	07:27:27
+03:	Crush					-	11:35:00
+04:	John the Revelator			-	06:51:30
+05:	Stay					-	08:17:58
+06:	Watchtower				-	11:21:30
+07:	Lover Lay Down				-	07:38:24
+
+Total:						-	60:44:20
+
+
+Disc Three:
+
+01:	Disc III Intro				-	00:22:41
+02:	Grey Street				-	07:48:42
+03:	Sweet Up & Down				-	06:07:38
+04:	Tripping Billies			-	09:18:27
+05:	Grace Is Gone				-	05:59:62
+06:	Ants Marching				-	09:37:31
+
+Total:						-	39:16:14
+

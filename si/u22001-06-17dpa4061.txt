@@ -1,0 +1,46 @@
+U2
+6-17-01
+Madison Square Garden
+New York, NY
+
+
+Taper:		Scott Brown <scb@dartmouth.edu>
+Source:		DPA 4061s > DPA MPS 6010 > Sound Devices MP-2 > Sony D8
+Location:	Section 83, Row E
+DAT >CD > SHN:	Tascam DA-20 mkii > Audiowerk2 > PowerMacG4/733
+		burn/extract via plextor 12x4x32
+
+
+DO NOT ENCODE INTO MP3
+
+
+Disc 1  70:45:03
+01 Intro                               01:17:21
+02 Elevation                           05:16:40
+03 Beautiful Day                       04:36:03
+04 Until the End of the World          05:07:47
+05 Mysterious Ways                     08:23:30
+06 Kite                                05:18:02
+07 Gone                                04:55:27
+08 New York                            05:38:61
+09 I Will Follow                       04:57:17
+10 Sunday, Bloody Sunday               07:58:11
+11 Stuck in a Moment                   05:31:01
+12 In a Little While                   04:36:31
+13 Desire                              07:09:08
+
+
+Disc 2  64:56:16
+01 Stay                                06:21:70
+02 Bad                                 06:46:05
+03 Where the Streets Have No Name      05:50:53
+04 Pride                               06:32:53
+05 Bullet the Blue Sky                 07:51:34
+06 With or Without You                 05:18:29
+07 The Fly                             11:07:09
+08 One                                 06:08:40
+09 I Remember You                      01:31:30
+10 Walk On                             07:27:51
+
+
+compiled by scott brown on 6-18-01

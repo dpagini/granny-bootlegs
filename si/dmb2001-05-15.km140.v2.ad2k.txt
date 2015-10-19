@@ -1,0 +1,45 @@
+Dave Matthews Band
+Desert Sky Pavilion
+Phoenix, AZ
+May 15, 2001
+
+Taper:		Craig Willoughby
+Source Info:	Neumann ak40s > Neumann lc-3 active cables > Neumann km100s >
+		Lunatec V2 > Audio Magic Presto II XLRs > Sonic AD2K+ (16NS2)
+Location:	6th row, stage left, middle of stack
+
+DAT > CD:	David Baty
+Equip:		D8 > Zoltrix Nightingale > CEP 1.1 > CDWAV
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Intro					01:42.73
+d1t02		One Sweet World				09:21.41
+d1t03		I Did It				05:00.24
+d1t04		Don't Drink The Water			07:41.21
+d1t05		If I Had It All				05:06.74
+d1t06		Big Eyed Fish				06:39.03
+d1t07		Bartender				10:44.63
+d1t08		What Would You Say? *			06:52.65
+d1 totals 53:11.64
+
+d2t01		Jimi Thing &				18:45.27
+d2t02		When The World Ends			04:21.05
+d2t03		So Right				06:17.51
+d2t04		What You Are				07:43.33
+d2t05		#41 *&%					22:18.29
+d2 totals 59:27.70
+
+d3t01		Sleep To Dream Her			04:38.47
+d3t02		Grace Is Gone				06:09.41
+d3t03		JTR					06:43.06
+d3t04		Tripping Billies			10:50.54
+d3t05		encore intro				01:05.47
+d3t06		Waste (Dave solo)			04:20.04
+d3t07		All Along The Watchtower		09:06.00
+d3 totals 42:55.49
+
+* Sam Kininger on sax
+& Eric Krasno of Soulive on guitar
+% Neal Evans of Soulive on Hammond B-3 organ

@@ -1,0 +1,47 @@
+Dave Matthews Band
+July 5, 1997
+Irvine Meadows Amphitheatre
+Irvine, CA
+
+
+Source:		AKG 460 > DAP1
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				00:58.43
+02:		Two Step			09:06.61
+03:		Best Of What's Around		06:12.61
+04:		Lie In Our Graves		08:28.24
+05:		#41 ->				09:39.60
+06:		Say Goodbye			09:00.19
+07:		Jimi Thing			14:34.40
+08:		Dancing Nancies			11:25.29
+
+Total						69:26.37
+
+Disc Two:
+
+01:		Warehouse			08:20.56
+02:		Minarets			07:25.33
+03:		Typical Situation		13:30.07
+04:		Crash Into Me			07:08.34
+05:		So Much To Say ->		04:07.30
+06:		Anyone Seen The Bridge ->	01.21.52
+07:		Too Much			05:53.49
+08:		Tripping Billies		06:44.62
+09:		E:  Leave Me Praying		07:59.56
+10:		E:  Ants Marching		07:44.57
+
+Total						70:16.61
+
+Notes:
+----------
+*	There is a thud sound a few minutes into Two Step.  Sounds like something hit the stand.
+*	There was a break between Warehouse and Minarets, so a fade out/in was inserted.
+*	A portion of the encore break was cut on the DAT.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on April 29, 2001.

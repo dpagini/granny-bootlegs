@@ -1,0 +1,28 @@
+Dave Matthews Band
+Bridge School Benefit
+Shoreline Amphitheatre, Mountain View, CA
+October 19, 1997
+
+Taper:		
+Source:		Schoeps MK41 hypercards > Schoeps KC5 active cables >
+		Schoeps CMC6s > Sonosax SX-M2 > Sony D100
+
+Conversion:     Paul Chrostowski (pchrosto@cfl.rr.com) 4/22/01
+DAT > SHN:	PCM-R500 > Sek'd Prodif+ > Samplitude 2496 > CDWAV (no DAE)
+		
+Disc One:
+
+01:	Intro					-	00:44.67
+02:	Satellite				-	05:37.44
+03:	The Song That Jane Likes		-	04:25.18
+04:	So Much To Say >			-	04:11.04
+05:	Anyone Seen The Bridge >		-	01:25.15
+06:	Too Much				-	05:07.11
+07:	Two Step				-	08:35.31
+08:	All Along The Watchtower *		-	07:08.69
+
+Total:						-	37:15.34
+
+Notes:
+
+* w/ Neil Young

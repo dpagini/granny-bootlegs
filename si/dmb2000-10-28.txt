@@ -1,0 +1,31 @@
+Dave Matthews Band
+October 28, 2000
+Bridge School Benefit
+Shoreline Ampitheatre
+Mountain View, CA
+
+Taper:		unknown  :o)
+Source:		Schoeps mk4v > Schoeps kcy active cables > Schoeps vms 021b > Sony sbm-1 > Sony D10 Pro
+
+DAT > CD:	DAT > Standalone CDR recorder
+
+CD > SHN:	Plextor 8x20 > EAC 0.85 > SHN <all tracks 100%>
+		Louie Rendek <ljr7@po.cwru.edu>
+
+
+Track	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Intro					01:15.72
+d1t02		Warehouse				08:32.74
+d1t03		Best Of What's Around			06:02.01
+d1t04		So Much To Say -> ASTB ->		05:55.30
+d1t05		Too Much				05:21.15
+d1t06		Ants Marching				08:35.29
+d1t07		Grace Is Gone				05:55.00
+d1t08 		Cortez The Killer #			15:06.13
+
+d1 totals						56:44.09
+
+NOTES:
+----------
+#	w/ Neil Young

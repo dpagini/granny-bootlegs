@@ -1,0 +1,27 @@
+Dave Matthews
+September 6, 2002
+The Mountain Music Lounge - KMTT 103.7FM
+Seattle, WA
+
+Source:	FM > WAV > SHN
+
+Conversion: FM > WAV (Creative Recorder@44.1khz/16bit/Stereo) > 
+	WAV (Goldwave@44.1khz/16bit/Stereo) > SHN (mkwACT 0.97b1)
+
+
+Tracks					Time
+------					-----
+
+1. Intro/Interview			06:27
+2. Gravedigger				03:47
+3. Interview*				01:32
+
+
+* commercial run on top of interview for a couple seconds @ 00:46 mark.
+
+
+
+Notes: Live@The Gorge in George, Washington in the "mobile" Mountiain Music Lounge.
+
+
+Compiled by mondo3d on 9-6-02

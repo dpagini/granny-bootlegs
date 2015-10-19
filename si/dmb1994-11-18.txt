@@ -1,0 +1,47 @@
+Dave Matthews Band
+November 18, 1994
+Fox Theatre
+Boulder, CO
+
+Taper:		unknown
+Source Info:	DSBD
+
+DAT > CD:	unknown
+Equip:		unknown
+
+CD > SHN:	Louie Rendek
+		EAC v0.85b4 @ 1x (Secure Mode)
+
+THIS SHOW IS NOT TO BE MP3-ENCODED
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Best Of What's Around			0:07:27.54
+d1t02		What Would You Say			0:04:45.92
+d1t03		Satellite				0:05:40.08
+d1t04		Rhyme and Reason			0:05:29.52
+d1t05		The Song That Jane Likes		0:04:58.74
+d1t06		Jimi Thing				0:11:57.17
+d1t07		What Would You Say			0:04:47.40
+d1t08		One Sweet World (Swim Naked outro) -->	0:08:59.60
+d1t09		Dancing Nancies -->			0:08:04.64
+d1t10		Warehouse				0:09:12.92
+d1 totals 71:25.16
+
+d2t01		Say Goodbye				0:08:36.06
+d2t02		True Reflections			0:07:51.70
+d2t03		Pay For What You Get			0:05:49.64
+d2t04		Minarets -->				0:08:23.41
+d2t05		Typical Situation			0:09:52.62
+d2t06		Tripping Billies -->			0:04:13.88
+d2t07		#36 (Carter solo intro) -->		0:08:39.93
+d2t08		Ants Marching				0:06:41.86
+Encore:
+d2t09		Christmas Song				0:06:03.78
+d2t10		Halloween				0:07:27.48
+d2 totals 73:42.04
+
+Notes:
+There is a short dropout in d1t03 around 2:24.  There is a short fade out at the end of
+disc one.

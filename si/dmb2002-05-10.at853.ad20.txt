@@ -1,0 +1,56 @@
+Dave Matthews Band
+Pepsi Center
+Denver, Colorado
+May 10, 2002
+
+Taper:		Chuck Lesiak <sprtscntr@dmbirc.org>
+
+Source Info:	AT 853s -> Denecke AD-20 -> D100
+
+Location:	Section 146, Row 19, Seats 11 & 12 @ approx. 13'
+
+DAT > SHN:	D100 -> Oade Passive -> Dio 2448 -> Soundforge 5.0
+		-> cdwav -> mkwACT
+
+**************************************************
+*** Do NOT encode to mp3 under any circumstance***
+**************************************************
+
+Disc One: 
+
+01:	Intro					- 03:00:47
+02:	What Would You Say +			- 05:49:33
+03:	When The World Ends +			- 04:32:20
+04:	Grey Street +				- 06:27:04
+05:	I Did It +				- 04:34:71
+06:	You Never Know +			- 07:22:03
+07:	Grace Is Gone +				- 07:47:70
+08:	One Sweet World Intro +			- 03:09:35
+09:	One Sweet World +			- 06:07:70
+10:	So Right +				- 06:37:32
+11:	Cortez The Killer !			- 09:47:23
+
+Total:						- 65:16:33
+
+Disc Two:
+
+01:	Crush +					- 12:52:58
+02:	Fool To Think +				- 05:04:68
+03:	Jimi Thing +				- 14:18:32
+04:	Drive In Drive Out +			- 06:07:54
+05:	Interlude to Where Are You Going	- 01:31:18
+06:	Where Are You Going +			- 04:53:61
+07:	Ants Marching +				- 07:24:01
+08:	Encore Break				- 07:12:51
+09:	Waste					- 05:05:71
+10:	Tripping Billies +			- 05:39:22
+
+Total:						- 70:10:62
+
+
+
++ with Butch Taylor
+! with Warren Hayes
+
+Compiled on 5/13/02 by Chuck Lesiak
+

@@ -1,0 +1,58 @@
+Dave Matthews Band
+National Car Rental Center, Sunrise, FL
+July 20, 2001
+
+Taper:		Paul Chrostowski
+Source:		Schoeps CCM4V cardioids > Schoeps K5LU XLR >
+		Lunatec V2 > Audio Magic Presto II RCA > Tascam DA-P1
+Location:	75° ORTF width 14' high, taper's section
+
+Conversion:     Paul Chrostowski 8/2/01
+DAT > SHN:	PCM-R500 > Sek'd Prodif+ > Samplitude 2496 > CDWAV 
+                (resampled by Prodif+ from 48KHz, no DAE)
+		
+Disc One:
+
+01:	Intro					-	01:27.52
+02:	JTR					-	07:06.45
+03:	Captain (tease)				-	00:49.57
+04:	When The World Ends			-	04:37.02
+05:	So Right				-	06:50.73
+06:	The Stone				-	08:56.12
+07:	Big Eyed Fish >				-	06:52.51
+08:	Bartender				-	12:10.59
+09:	Too Much				-	05:20.25
+
+Total:						-	54:12.01
+
+
+Disc Two:
+
+01:	What You Are				-	07:07.26
+02:	If I Had It All				-	05:21.69
+03:	The Space Between			-	05:59.49
+04:	Two Step				-	19:03.38
+05:	Fool To Think				-	04:39.49
+06:	Everyday (w/ #36)			-	10:40.34
+07:	Tripping Billies			-	07:32.40
+
+Total:						-	60:25.05
+
+
+Disc Three:
+
+01:	Sleep To Dream Her >			-	04:57.41
+02:	Grace Is Gone				-	08:24.27
+03:	True Reflections			-	09:09.62
+04:	Stay					-	14:39.32
+	~~~Encore~~~
+05:	Funny How Time Slips Away *		-	05:16.05
+06:	I Did It >				-	03:37.48
+07:	Ants Marching				-	09:03.38
+
+Total:						-	55:08.28
+
+
+Notes:
+
+* - Dave solo

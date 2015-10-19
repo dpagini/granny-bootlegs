@@ -1,0 +1,65 @@
+Dave Matthews Band
+April 23, 2002
+Palace of Auburn Hills
+Auburn Hills, Michigan
+
+Taper:		Frank Crowe <emailme@frankcrowe.com>
+
+Source:		Oktava mc012 (cards, XY) > Beyerdynamic MV-100 > 
+		Sony SBM-1 > Sony PCM-M1 @ 44.1Khz
+
+Location:	Section 126, Row EE, Seat 13 @ ~13'
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for editing & CDWAV used for tracking
+
+
+	********************************************
+	*	     Do Not encode to MP3          *
+	********************************************
+
+DISC 1
+Track	Title					Time
+---
+01.	Intro					02:37
+02.	#40					01:07
+03.	So Much To Say				05:21
+04.	When The World Ends			04:39
+05.	You Never Know				07:27
+06.	Warehouse				09:39
+07.	Raven					07:00
+08.	Crush					12:58
+---	
+Total:			    		        50:48
+
+
+DISC 2
+Track	Title					Time
+---
+01.	What You Are				06:58
+02.	One Sweet World Intro >			03:10
+03.	One Sweet World				07:28
+04.	Too Much				05:48
+05.	Grey Street				07:06
+06.	Grace Is Gone				07:01
+07.	Jimi Thing				14:03
+---	
+Total:	    		     		        51:34
+
+
+DISC 3
+Track	Title					Time
+---
+01.	Pig					08:08
+02.	Where Are You Going			03:41
+03.	Two Step				26:54
+04.	The Space Between			05:51
+05.	Tripping Billies			06:33
+---	
+Total:	    		     		        51:07
+
+
+Notes:
+---------
+
+*  compiled by Frank Crowe <emailme@frankcrowe.com> on April 25, 2002.

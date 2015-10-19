@@ -1,0 +1,106 @@
+Dave Matthews Band
+December 31, 2000
+Maxwell's Coffee House, Toledo, Ohio
+
+taper:  Michael A. Zdrada
+source:  SBD -> DAT -> CDr
+
+conversion: Michael A. Zdrada
+
+track	|	title				    |	m:s.f
+----------------------------------------------------------------
+d1t01		SC: Granny   				07:17.37
+d1t02		SC: Big Eyed Fish			08:50.01
+d1t03		SC: #40 *				04:00.56
+d1t04		SC: All Along the Watchtower		10:32.88
+d1t05		SC: Spotlight (no lyrics) ¤ 		06:51.10
+d1t06		SC: Mother Father *			04:44.94
+d1t07		SC: Bartender *				07:03.81
+d1t08							04:46.73
+d1t09		Proudest Monkey				09:46.26
+d1t10		Anyone Seen the Bridge ->		03:31.77
+d1t11		Too Much (Fame, Golden Years)		07:15.46
+total		DISC 1					74:40.89
+
+
+d2t01		#36 ->					07:48.69
+d2t02		Ants Marching ->			06:54.86
+d2t03		Recently (Norweigen Wood, Some Do, 
+		Take Me To The River) ->		10:13.06
+d2t04		Water/Wine Jam ->			03:27.46
+d2t05		Lie In Our Graves			08:00.92
+d2t06		Crazy *					05:52.17
+d2t07		Jimi Thing ->				06:02.24
+d2t08		What Will Become of Me? ->		04:07.90
+d2t09		Don't Burn the Pig			07:36.33
+d2t10		Warehouse (Passion, Stop Time) ->	08:53.25
+d2t11		Dancing Nancies				07:41.78
+total		DISC 2					60:55.11
+
+
+d3t01		The Temple * ->				02:11.66
+d3t02		For The Beauty of Wynona		06:19.10
+d3t03		Little Drummer Boy ->			03:12.05
+d3t04		Silver and Gold Decorations Jam		08:22.82
+d3t05		I'll Back You Up			06:01:00
+d3t06		#41 ->					09:34.59
+d3t07		Everyday ->				02:21.23
+d3t08		Say Goodbye				07:09.89
+d3t09		Cry Freedom				07:56.11
+d3t10		The Best of What's Around		06:59.65
+d3t11							03:21.95
+total		DISC 3					63:30.05
+
+
+d4t01		2001 -> Auld Landsyne			06:27.62
+d4t02		Minarets (Tomorrow Never Knows, Scat)	09:45.35
+d4t03		Busted Stuff				08:39.65
+d4t04		Kind Intentions				07:01.94
+d4t05		Watermelon Song ->			00:45.03
+d4t06		Two Step (Time is Short)		11:36.23
+d4t07		Cortez the Killer			09:31.81
+d4t08		The Stone (Wise Men) Ä			05:63.64
+d4t09		Tangerine *				02:10.00
+d4t10		Pay For What You Get *			04:52.17
+d4t11		Blue Water *				02:59.54
+total		DISC 4					69:52.98
+
+
+d5t01		#34 ^ ->				03:34.62
+d5t02		Digging a Ditch ->			06:56.23
+d5t03		Pantala Naga Pampa (LeRoi's Solo) ->	05:65.15
+d5t04		Rapunzel				07:20.04
+d5t05		Exodus					13:19.75
+d5t06		Typical Situation (Tears)		11:05.46
+d5t07		Lover Lay Down				06:02.56
+d5t08		John the Revelator +			03:42.19
+d5t09		Deed Is Done				08:25.00
+d5t10							06:05.00
+total		DISC 5					72:31.00
+
+
+d6t01		E1:If I Had It All			01:02.91
+d6t02		E1:Christmas Song # ->			04:32.23
+d6t03		E1:Jam # ->				03:12.63
+d6t04		E1:Halloween #				05:09.10
+d6t05		E1:Grey Street				09:35.79
+d6t06		E1:One Sweet World (won suite whirled)	08:59.46
+d6t07							06:02.00
+d6t08		E2:Little Thing *			03:19.40
+d6t09		E2:Space Between ^ Ä			05:43.02
+d6t10		E2:The Maker +				06:16.36
+d6t11		E2:Angel from Montgomery +		08:31.89	
+total		DISC 6					62:24.79
+
+
+* Dave Solo
+^ Boyd/LeRoi
+Ä Dave/Stefan
+# Dave/Stefan/Carter
++ Dave/Boyd/Stefan
+¤ Carter/Boyd/LeRoi
+
+comments: Mother Father is Dave a capella.  The Kind Intention lyrics are completely different than any previous version, seemingly improvised.  Boyd took lead vocals on Angel from Montgomery.  Carter did not attend to the second encore.
+
+compiled by:  Michael A. Zdrada (zdradama@hotmail.com)
+

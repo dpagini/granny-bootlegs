@@ -1,0 +1,50 @@
+Dave Matthews Band
+Coca-Cola Lakewood Ampitheatre, Atlanta, GA
+September 10, 2000
+
+Taper:		Vance Smith
+Source:		AKG c391b > Aerco MP-2 > Sony SBM-1
+Location:	?th row
+
+Converter:	George Wang <gewwang@yahoo.com>
+DAT > SHN:	DA-30 mk.II > Opcode Datport > IBM Think Pad 600X >
+		Sound Forge 4.5
+
+	
+Disc One:
+
+01:	Intro					-	02:53.000
+02:	The Stone				-	07:46.320
+03:	Drive In Drive Out			-	07:16.000
+04:	Grey Street				-	10:10.000
+05:	Don't Drink the Water			-	07:58.000
+06:	Busted Stuff				-	07:22.000
+07:	The Song That Jane Likes		-	04:45.493
+08:	For The Beauty of Wynona *		-	07:37.000
+Total:						-	55:47.813
+
+Disc Two:
+
+01:	Too Much (Intro)			-	00:51.000
+02:	Too Much				-	04:26.000
+03:	#36					-	10:29.000
+04:	Crash into Me				-	06:16.000
+05:	JTR					-	06:41.213
+06:	Grace Is Gone				-	05:50.000
+07:	Warehouse				-	08:57.786
+Total:						-	43:30.000
+
+Disc Two:
+
+01:	Jimi Thing (Intro)			-	00:16.000
+02:	Jimi Thing *				-	15:13.000
+03:	Two Step				-	25:46.000
+04:	Digging a Ditch				-	05:50.000
+05:	Pantala Naga Pampa -->			-	00:42.773
+06:	Rapunzel				-	08:14.226
+Total:						-	56:01.000
+
+
+Guests: entire show with Butch Taylor on keys
+
+* with David Ryan Harris

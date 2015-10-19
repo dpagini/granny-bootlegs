@@ -1,0 +1,43 @@
+Dave Matthews Band
+November 1, 1994
+The Roxy
+Amsterdam, Netherlands
+
+
+Source:		SBD (Analog Master transferred to DAT)
+DAT > SHN:	Archive Python DDS/vdat > .wav (Direct DAT extraction, no soundcard)
+		Bill Lakenan <blakenan@us.net> and Louie Rendek <ljr7@po.cwru.ed>
+
+Track	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Intro					00:34.67
+d1t02		Seek Up 				13:05.33
+d1t03		Dancing Nancies ->			08:02.32
+d1t04		Warehouse				09:23.50
+d1t05		Best of What's Around			06:49.48
+d1t06		Song That Jane Likes			04:36.38
+d1t07		Tripping Billies			06:04.27
+
+d1 totals						48:37.25
+
+
+d2t01		Pay For What You Get			06:12.71
+d2t02		Jimi Thing				12:00.16
+d2t03		Rhyme and Reason			06:18.05
+d2t04		#36 ->					07:55.24
+d2t05		Ants Marching				07:08.26
+
+d2 totals						39:34.67
+
+
+NOTES:
+----------
+
+The band played one long set with no encore as they had limited time.  Dave said something about a disco party happening after they were done.  They were gonna stick around, put on some tight clothes, and get their thang on...
+
+There are a few split second diginoise zaps in Seek Up.
+There are a few split second diginoise in Dancing Nancies.
+There are a few split second diginoise zaps in Warehouse.
+There is a split second drop between Warehouse and BOWA along with some level adjusting at the beginning of BOWA, but the diginoise stops for the rest of the show  :o)
+There is a split second drop between PFWYG and Jimi Thing.
+There is a 7 second dropout in #36 ~7:00 into the track.

@@ -1,0 +1,53 @@
+Dave Matthews Band
+July 7, 1997
+Concord Pavilion
+Concord, CA
+
+
+Source:		AKG 480(ck61) > Lunatec 316 > Apogee ad1000 > HHb
+		Marc Nutter
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				01:13.21
+02:		One Sweet World Intro		03:34.11
+03:		One Sweet World (swim naked)	05:30.42
+04:		Two Step			08:59.59
+05:		Song That Jane Likes		05:06.18
+06:		#41 ->				10:06.37
+07:		Say Goodbye			11:59.04
+08:		Jimi Thing #			15:14.69
+09:		Lie In Our Graves # @		11:21.66
+
+Total						73:06.49
+
+Disc Two:
+
+01:		Beauty Of Wynona @		08:30.42
+02:		Typical Situation		13:43.03
+03:		Crash Into Me			06:18.40
+04:		So Much To Say ->		04:09.08
+05:		Anyone Seen The Bridge ->	01:23.25
+06:		Too Much			05:43.48
+07:		Tripping Billies		05:39.34
+08:		encore break/intro		03:50.33
+09:		E:  Leave Me Praying		08:09.14
+10:		E:  Ants Marching		08:36.30
+
+Total						66:03.52
+
+#	with Steve Berlin from Los Lobos on saxophone.
+@	with David Hidalgo from Los Lobos on guitar.
+
+Notes:
+----------
+*	There was a cut during the encore break and a fade
+	out/in was inserted.
+*	The levels in the "Carter wailing away on the drums"
+	intro to Leave Me Praying were kind of hot.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on August 22, 2001.

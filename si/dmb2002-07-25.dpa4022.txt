@@ -1,0 +1,46 @@
+Dave Matthews Band
+7-25-02
+ctnow Meadows Music Theater
+Hartford, CT
+
+Taper: Scott Brown <scb02@alum.dartmouth.org>
+
+Source: DPA (B&K) 4022s > Sound Devices MP-2 > Audio Magic Sorcerer XLRs > Sonic AD2k+ @ 24bit, 44.1 khz > Digital Performer 3.02 > WaveBurner 2.2* > SoundEdit16 2.07 > shntool 1.01
+*dithered using POW-r3
+
+Section 100, row E
+
+DO NOT ENCODE TO MP3
+
+
+Disc 1   		76:52.02
+
+01 Intro                01:48.08
+02 Pig                  07:31.57
+03 Everyday             10:08.14
+04 When the World Ends  05:07.45
+05 You Never Know       07:17.49
+06 Loving Wings         08:08.13
+07 Where Are You Going  04:29.26
+08 Bartender            14:07.05
+09 So Right             06:53.10
+10 Song that Jane Likes 05:19.10
+11 Captain              05:59.64
+
+Disc 2   		70:38.33
+
+01 Kit Kat Jam          06:20.04 
+02 Jimi Thing           14:28.18
+03 Digging a Ditch      06:41.48
+04 Rhyme and Reason     06:28.74
+05 Crush                12:59.06
+06 Grey Street          11:03.12
+Encore:
+07 Cry Freedom          06:10.58
+08 What Would You Say   06:24.68
+
+notes: 
+
+Thanks to Steve Schatteman for setting the rig up on time while i was still on the road
+
+compiled by scott brown on 7-26-02

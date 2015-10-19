@@ -1,0 +1,38 @@
+Dave Matthews Band
+Peppermint Beach
+Virginia Beach, VA
+November 26, 1993
+
+Taper:		unknown
+Source Info:	dSBD
+
+DAT > CD:	David Baty <dbaty@usermail.com>
+Equip:		D8 > Montego II+ > CEP 1.1 > CDWAV
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Intro					01:56.72
+d1t02		One Sweet World				09:55.29
+d1t03		Tripping Billies			04:59.15
+d1t04		Granny					05:51.58
+d1t05		Satellite				06:13.14
+d1t06		Help Myself				06:06.74
+d1t07		The Song That Jane Likes		03:27.68
+d1t08		Dancing Nancies				09:23.23
+d1t09		True Reflections			07:39.02
+d1t10		Minarets				09:32.61
+d1 totals 65:08.16
+
+d2t01		Lover Lay Down				07:39.27
+d2t02		Lie In Our Graves			06:19.06
+d2t03		Jimi Thing				10:32.64
+d2t04		Seek Up					15:56.33
+d2t05		Pay For What You Get			05:17.43
+d2t06		What Would You Say?			07:25.53
+d2t07		Warehouse				08:43.68
+d2 totals 61:56.69
+
+NOTES:
+Audio cut off during the end of Warehouse.  Rather than having an
+abrupt end, I faded out the last two seconds.

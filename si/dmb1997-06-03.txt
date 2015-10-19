@@ -1,0 +1,84 @@
+Dave Matthews Band
+June 3, 1997
+Classic Amphitheatre
+Richmond, VA
+
+
+Source:		AKG 480/ck61 > Beyer mv100 > Sony SBM1 > Sony D7
+		Bill Lakenan
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				00:43.62
+02:		Two Step			08:40.38
+03:		Recently			09:36.72
+04:		#41 ->				08:25.63
+05:		Say Goodbye			08:25.25
+06:		Jimi Thing			14:06.59
+
+Total						49:59.19
+
+Disc Two:
+
+01:		Beauty of Wynona		05:12.34
+02:		Crash Into Me			07:40.14
+03:		Minarets (scat intro) ->	08:27.72
+04:		Typical Situation		12:50.24
+05:		Drive In Drive Out		07:29.10
+06:		Lover Lay Down			08:30.58
+
+Total						50:10.62
+
+Disc Three:
+
+01:		Lie In Our Graves #		10:41.01
+02:		Ants Marching #			09:05.64
+03:		So Much To Say ->		04:10.50
+04:		Anyone Seen The Bridge ->	01:40.44
+05:		Too Much			09:46.71
+06:		Tripping Billies		05:19.46
+07:		Dancing Nancies			11:05.61
+
+Total						51:50.37
+
+#	with Bela Fleck on banjo.
+
+Notes:
+----------
+*	The DAT initially had some "problems" that were edited.
+	There was one channel that had higher levels, but the channel
+	with the lower levels was not at a constant level.  The
+	lower channel continually decreased over the entire length
+	of the show.  The beginning of the show had a 3dB difference
+	between the two channels, but by the end of the show, that
+	difference grew to 13dB.  A graphic fade was done in Sound
+	Forge to level out the low channel, then a boost was done
+	to even out the levels between the right and left channel.
+	The results are good, much better than the original.
+*	There are problems throughout this show with clipping.
+	The spots are very brief and the rest of the tape sounds
+	good.  All of these problems are on the master.  I had two
+	other sources (one DAT and one CD) and both did not sound
+	as good as this source.  See below for details.
+*	There was ~15 seconds worth of clipping at 2:28 in Minarets.
+	The clipping was only in the right channel, so the left channel
+	audio was inserted over this time period.
+*	Dave does a Rod Stewart tease between Typical and DIDO,
+	"Tonight's The Night".
+*	There was 2 seconds of bad clipping at 3:58 in SMTS.  The clipping
+	was only in the right channel, so the audio from the left
+	channel was inserted.
+*	There is a clip at 1:42 in Too Much, not edited.
+*	There are clips at 1:40, 2:05, and 4:07 in Tripping Billies,
+	only the clip at 4:07 was edited.
+*	There are clips between 7:40 to 7:50 in Nancies.  These were
+	not edited.  A clip at 7:55 and 8:05 in Nancies were edited,
+	since the clips at those spots were only in the right channel.
+	The audio from the left channel for 0.87 and 2.00, respecively,
+	seconds at each spot was inserted.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on September 19, 2001.

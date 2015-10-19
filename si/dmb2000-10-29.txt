@@ -1,0 +1,30 @@
+Dave Matthews Band
+October 29, 2000
+Bridge School Benefit
+Shoreline Ampitheatre
+Mountain View, CA
+
+Taper:		unknown  :o)
+Source:		Schoeps mk4v > Schoeps kcy active cables > Schoeps vms 021b > Sony sbm-1 > Sony D10 Pro
+
+DAT > CD:	DAT > Standalone CDR recorder
+
+CD > SHN:	Plextor 8x20 > EAC 0.85 > SHN <all tracks 100%>
+		Louie Rendek <ljr7@po.cwru.edu>
+
+
+Track	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Intro					01:24.67
+d1t02		One Sweet World (Instrumental Intro)	08:55.74
+d1t03		What Would You Say			05:49.00
+d1t04		Crash Into Me				06:43.00
+d1t05		Tripping Billies			07:02.00
+d1t06		All Along The Watchtower		07:42.00
+d1t07 		Cortez The Killer #			16:29.04
+
+d1 totals						54:05.70
+
+NOTES:
+----------
+#	w/ Neil Young

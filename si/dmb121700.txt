@@ -1,0 +1,43 @@
+Dave Matthews Band
+Fleet Union Center, Philadelphia, PA
+December 17, 2000
+
+
+Taper:		Mike Vernal <vernal@fas.harvard.edu>
+Source:		neumann ak40s > neumann lc-3 active cables > neumann km100s > 
+		Lunatec V2 > Audio Magic Excalibur-II XLRs > Apogee AD-1000
+Location:	Section 123, row 7, in front of stage right stack
+
+DAT > SHN:	PCM-R500 > Audiomedia III/Powermac G3/233 > Pro Tools 4.3.2 >
+		Plextor 12x/4x/32x (burn/extract)
+
+Disc One:
+
+01:	Intro					-	01:47:69
+02:	Seek Up					-	18:01:04
+03:	What Would You Say			-	06:37:39
+04:	JTR					-	07:55:21
+05:	Don't Drink the Water			-	08:41:59
+06:	Satellite				-	05:29:61
+07:	Song That Jane Likes			-	04:47:43
+08:	Rhyme & Reason				-	06:36:22
+09:	True Reflections			-	08:38:45
+
+Total:						-	68:37:63
+
+
+Disc Two:
+
+01:	#41					-	13:50:44
+02:	Crash Into Me				-	06:10:48
+03:	All Along the Watchtower		-	10:15:74
+04:	Grey Street				-	08:50:27
+05:	So Much To Say				-	04:22:07
+06:	Anyone Seen the Bridge			-	01:29:26
+07:	Too Much				-	11:07:49
+08:	Blue Water				-	01:21:55
+09:	Christmas Song				-	06:22:34
+10:	Ants Marching				-	10:06:02
+
+Total:						-	73:58:66
+

@@ -1,0 +1,32 @@
+Soulive
+June 19, 2001
+Copley Square, Boston, MA
+
+
+SOURCE: Schoeps CMC6/MK21 (on stage) -> Snake -> Lunatec 316 & SBD ->
+         Behringer MX-802A -> Benchmark AD2K+ -> Tascam DA-P1 @ 44.1 kHz
+
+CONVERSION: CardDeluxe (S/PDIF) -> SoundForge 4.5 -> EQ -> CD Wave ->
+             .WAV -> .SHN
+
+Taped by Peter Costello
+Transfer and encoding by Steve Gatzos
+
+
+   DISC ONE [65:55]
+1.  Intro
+2.  Steppin'
+3.  Cash's Dream
+4.  One in Seven
+5.  Uncle Junior
+6.  Hurry Up...And Wait*
+7.  It's Your Thing*
+
+   DISC TWO [30:29]
+1.  Bridge to 'Bama
+     Encore:
+2.  Lenny** ->
+3.  Turn it Out
+
+ * Sam Kininger on alto sax
+** Stevie Ray Vaughn original

@@ -1,0 +1,25 @@
+Dave Matthews
+05-02-92
+Trax
+Charlottesville, VA
+
+Source:		DSBD
+Conversion:	Tascam DA-30 > Digi Coax > Midiman DIO2448 (jond_ice@hotmail.com)
+Resampling:	48kHz > 44.1kHz via Cool Edit
+SHN:		MKW Audio Compression Tool
+
+****************************************************
+	THIS SHOW IS NOT TO BE MP3-ENCODED	
+****************************************************
+
+1:	Dancing Nancies
+2:	Recently
+3:	Cry Freedom
+4:	Song That Jane Likes
+5:	Watchtower
+6:	Lover Lay Down
+7:	Minarets
+8:	Best of What's Around
+9:	Warehouse
+
+compiled by Jon Ice (10.17.00)

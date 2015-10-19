@@ -1,0 +1,54 @@
+Dave Matthews Band
+July 1, 1997
+Red Rocks Amphitheatre
+Morrison, CO
+
+
+Source:		AKG 480(ck61) > Lunatec 316 > Apogee ad1000 > HHb
+		Marc Nutter
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				01:38.45
+02:		Seek Up				14:53.58
+03:		Lie In Our Graves		09:12.60
+04:		#41 ->				08:54.56
+05:		Say Goodbye			09:30.54
+06:		Beauty Of Wynona		05:16.63
+07:		Two Step			09:09.72
+08:		Lover Lay Down			07:11.11
+09:		Granny				05:14.07
+
+Total						71:02.51
+
+Disc Two:
+
+01:		Jimi Thing			15:27.06
+02:		Drive In Drive Out		06:49.62
+03:		Crash Into Me			06:16.17
+04:		So Much To Say ->		04:04.10
+05:		Anyone Seen The Bridge ->	01.21.56
+06:		Too Much			05:57.62
+07:		Tripping Billies		05:50.52
+08:		encore intro			01:27.62
+09:		E:  Leave Me Praying		07:31.08
+10:		E:  Ants Marching		09:03.48
+
+Total						63:50.08
+
+Notes:
+----------
+*	There was a 0.05 second diginoise spot in Seek Up.  I
+	cut and paste the right channel to the left channel
+	to fix the diginoise.  This was at 3:11 in Seek Up.
+*	Taper changed levels between Seek Up and LIOG during
+	the crowd noise.
+*	There is a burst between Too Much and Billies during
+	crowd noise, but it sounds like a PA problem.
+*	The encore break was not on the DAT.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on August 19, 2001.

@@ -1,0 +1,29 @@
+dave matthews band
+12/2/94
+Recreation Hall
+UC-Davis, California
+
+source:  DSBD
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude (48>44.1)>cdwav
+
+**no DAE.  dat>wav>shn
+
+1 - #36
+2 - ants marching
+3 - dancing nancies
+4 - warehouse
+5 - satellite
+6 - jimi thing
+7 - tripping billies
+
+comments
+-------------
+this does not suffer from the pitch problems of an earlier conversion.
+
+compiled by allan chen
+4/8/00
+
+
+

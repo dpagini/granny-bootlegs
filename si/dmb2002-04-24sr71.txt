@@ -1,0 +1,53 @@
+Dave Matthews Band
+April 24, 2002
+Gund Arena
+Cleveland, OH
+
+
+Source:		Earthworks sr71 > BPS-1 > Zefiro Inbox > Oade active > d7
+		section 1, row g
+		Mike Sarnovsky
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				00:23.24
+02:		Granny				05:28.73
+03:		I Did It			04:55.44
+04:		Grey Street	 		06:14.00
+05:		Crash Into Me			07:15.21
+06:		Jimi Thing			13:06.30
+07:		Drive In Drive Out		07:07.01
+08:		If I Had It all			04:24.56
+09:		The Stone			08:27.41
+10:		Too Much			05:26.45
+
+Total						62:50.20
+
+Disc Two:
+
+01:		Seek Up				17:43.59
+02:		The Space Between		06:01.42
+03:		What You Are			07:20.10
+04:		Where Are YOu Going		04:32.18
+05:		When The World Ends		04:47.43
+06:		Ants Marching			14:47.02
+07:		E:  Ain't It Funny		04:35.72
+		    (How Time Slips Away)
+08:		E:  Pantala Naga Pampa ->	00:38.34
+09:		E:  Rapunzel			08:07.74
+
+Total						68:35.00
+
+*	whole show with Butch Taylor on keyboard.
+
+Notes:
+----------
+*	There are a few spots of clipping in the loudest spots
+	(i.e. at the end of Ants and the end of Rapunzel).  This
+	does not affect the sound at all.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on April 24, 2002.

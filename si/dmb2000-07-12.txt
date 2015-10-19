@@ -1,0 +1,52 @@
+Dave Matthews Band
+Giants Stadium, East Rutherford, NJ
+July 12, 2000
+
+Taper:		Mike Vernal <vernal@fas.harvard.edu>
+Source:		neumann ak40s > neumann lc-3 active cables > neumann km100s > 
+		Lunatec V2 > Audio Magic Excalibur-II XLRs > Apogee AD-1000
+
+Location:	9th row, stage right stack
+
+DAT > SHN:	PCM-R500 > Audiomedia III/Powermac G3/233 > Pro Tools 4.3.2 
+		Panasonic 7502 (burn/extract)
+
+Disc One:
+
+01:	Intro					-	02:49:70
+02:	Warehouse				-	08:53:47
+03:	Granny					-	08:47:60
+04:	Don't Drink the Water			-	08:27:03
+05:	Satellite				-	06:09:03
+06:	Recently (On Broadway)			-	04:14:51
+07:	Drive In Drive Out			-	06:50:66
+08:	I'll Back You Up			-	05:58:55
+09:	Sweet Up & Down				-	06:45:24
+
+Total:						-	58:59:00
+
+
+Disc Two:
+
+01:	Jimi Thing				-	16:10:33
+02:	Crash Into Me				-	06:53:17
+03:	True Reflections			-	08:48:67
+04:	Grey Street				-	09:06:40
+
+Total:						-	41:01:05
+
+
+Disc Three:
+
+01:	Disc III Intro				-	00:37:12
+02:	Stay					-	07:51:17
+03:	Long Black Veil *			-	11:51:70
+04:	Two Step *				-	16:48:09
+05:	Photo Opportunity			-	04:12:01
+06:	The Maker				-	06:43:15
+07:	All Along the Watchtower		-	11:47:06
+
+Total:						-	59:52:52
+
+* -	w/ Steve Wilson on Soprano Saxaphone
+

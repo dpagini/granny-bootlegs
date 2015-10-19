@@ -1,0 +1,49 @@
+Dave Matthews Band
+July 31, 1992
+Unknown Location
+
+Source:  SBD, possible on-stage matrix
+Taper:  unknown
+
+Conversion:  Jeff S. (madbakker@aol.com)
+CD->EAC(.85beta)->.WAV: Peter Denton
+
+Track 	|		Name		|	Time (m:s)
+------------------------------------------------------------
+
+SOUNDCHECK:
+d1t01		Best of What's Around		2:50
+
+DAVE SOLO:
+d1t02		Lie In Our Graves		2:52
+d1t03		I'll Back You Up		4:26
+d1t04		Drive In, Drive Out		2:35
+d1t05		Angel From Montgomery (w/ Boyd)	4:46
+d1t06		--dead time--			0:39
+d1t07 		--dead time--			0:27
+
+FULL BAND:
+d1t08		Help Myself			6:07
+d1t09		All Along the Watchtower	6:08
+d1t10		Ants Marching			4:47
+d1t11		Jimi Thing			11:21
+d1t12		Minarets			6:49
+
+d2t01		Blue Water Baboon Farm		10:43
+d2t02		One Sweet World			5:15
+d2t03		Satellite			5:33
+d2t04		True Reflections		7:20
+d2t05		Tripping Billies		4:52
+d2t06		Dancing Nancies			6:41
+d2t07		Two Step			7:51
+d2t08		Spotlight			5:59
+d2t09		Lover Lay Down			7:24
+
+d3t01		Jams -->			9:31
+d3t02		Typical Situation		10:01
+d3t03		What Would You Say		4:48
+
+ENCORE:
+d3t04		Norweigen Wood -->		13:03
+		Some People --> Recently
+d3t05		--dead time--			0:32

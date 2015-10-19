@@ -1,0 +1,38 @@
+Dave Matthews Band
+7 April 2002
+Fleet Center
+Boston, Massachusetts
+
+Taper: Chris Jones <jonescx@bc.edu>
+Source: DPA 4011 > DPA AO0182 XLR > Apogee Trak2 (@ 24/44.1) > Canare DA-206 AES-S/PDIF Interconnect > Metric Halo Mobile I/O 2882 +DSP FireWire Interface (@24/44.1) > Apple iBook G3/600 > MOTU DP 3.02
+Location: Section F Row 1 Seats 1 + 2
+HD > .shn: Apple iBook G3/600 > Apple Power Mac G4 DP800 > DP 3.02 > shntool 1.01
+
+d1t01  Introduction
+d1t02  What Would You Say*
+d1t03  Grey Street*
+d1t04  I Did It*
+d1t05  You Never Know*^
+d1t06  Crush*
+d1t07  Raven*
+d1t08  Don't Burn The Pig*
+d1t09  Sleep To Dream Her*
+d1t10  Grace Is Gone*
+d1t11  Too Much*
+
+d2t01  Busted Stuff*
+d2t02  Bartender*
+d2t03  The Space Between*
+d2t04  Intro To...*
+d2t05  Pantala Naga Pampa*
+d2t06  Rapunzel*
+---
+d2t07  Where Are You Going*
+d2t08  Intro To...*
+d2t09  Don't Drink The Water*
+
+* Featuring Butch Taylor
+^ First Time Played
+
+Compiled by Chris Jones <jonescx@bc.edu>
+8 April 2002

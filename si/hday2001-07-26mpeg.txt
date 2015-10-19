@@ -1,0 +1,52 @@
+Howie Day
+Highland Grounds - Los Angeles, CA
+July 26, 2001
+
+Taper:      Ari Viramontes (ariv83@mac.com) and Dov Viramontes (dov@mac.com)
+Source:     Panasonic  PV-DV100D (using built-in mic)
+Location:   FOB, DFC about 20 ft. back, tripod at head height
+
+Conversion: Will Gordon (gordonw@stuy.edu)
+            Panasonic MiniDV (PV-DV200D) > IEEE > StudioDV
+            MPEG conversion done in TMPEGENC, from 720x480 > 360x240
+
+note: file split into 4 parts because of video for windows 4gb filesize limit.
+my computer couldn't support visualdub's alternative, so this is the best I could do. -enjoy
+
+Part One:
+
+01:     Intro                                    -       00:00
+02:     Sorry, So Sorry                          -       00:16
+03:     Madrigals                                -       06:21
+
+        Total:                                   -       10:40
+
+Part Two:
+
+04:     Ghost (Double-time Outro) !              -       00:00
+05:     Buzzing                                  -       12:16
+06:     Kiss Me $                                -       16:23
+07:     My Heart Will Go On @                    -       16:43
+
+        Total:                                   -       17:45
+
+Part Three:
+
+08:     After You                                -       00:00
+09:     Disco                                    -       09:52
+
+        Total:                                   -       14:03
+
+Part Four:
+
+10:     Bunnies                                  -       00:00
+11:     She Says -> One & -> She Says            -       08:53
+
+        Total:                                   -       14:53
+
+! With "Beams of Light" lyrics
+$ Sixpense None the Richer tease
+@ Celine Dion tease
+& U2 tease
+
+Compiled by Nathan Spindel (natan@mac.com)

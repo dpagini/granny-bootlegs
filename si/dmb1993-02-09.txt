@@ -1,0 +1,66 @@
+Dave Matthews Band
+TRAX
+Charlottesville, VA
+February 9, 1993
+
+Taper:		Mark Lynn
+Source Info:	DSBD --> Master Soundboard Cassette (Onkyo TA 2600 w/Dolby C HX Pro)
+
+Analog -> DAT:	Mark Lynn
+		Nakamichi CR 7 --> Lucid AD9624 (AES/EBU out) --> Fostex D5 (48kHz)
+
+DAT -> CD:	Mark Lynn
+		Fostex D5 --> Tascam CDRW700
+
+CD -> SHN:	Louie Rendek <ljr7@po.cwru.edu>
+		Plextor 8x20 and EAC 0.85b4 secure mode:  all tracks 100%
+
+**  seeded by Rob Hartman <rhart@firstworld.net> and Louie Rendek <ljr7@po.cwru.edu>
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Intro 					00:52.68
+d1t02		Two Step # 				04:32.50
+d1t03		Best Of What's Around #			04:09.65
+d1t04		Rhyme and Reason #			03:56.18
+d1t05		All Along The Watchtower		07:51.59
+d1t06		Deliverance --> Ants Marching		06:40.37
+d1t07		Tripping Billies			05:13.62
+d1t08		Granny					03:32.16
+d1t09		One Sweet World 			05:14.30
+
+d1 totals 						42:04.30
+
+d2t01		Seek Up					09:02.27
+d2t02		Halloween				06:04.73
+d2t03		Lie In Our Graves			06:40.26
+d2t04		So Much To Say				06:12.43
+d2t05		Recently				09:41.26
+d2t06		What Would You Say (cut)		02:38.14
+
+d2 totals 						40:19.59
+
+d3t01		Disc three Intro			00:41.07
+d3t02		Drive In Drive Out			07:30.51
+d3t03		Satellite				05:38.24
+d3t04		Warehouse (Shotenin' Bread)		09:58.68
+d3t05		True Reflections			07:45.41
+d3t06		Pay For What You Get (Norwegian Wood)	06:22.01
+d3t07		Lover Lay Down (cut)			08:06.09
+d3t08		Dead Space				01:52.58
+d3t09		Rhyme And Reason -->  			06:22.25
+d3t10		Typical Situation			08:30.63
+
+d3 totals 						62:48.47
+
+#  Dave solo
+
+NOTES:
+----------
+There is a tape flip at the end of disc one.  Disc two starts abruptly with Seek Up.
+
+I think there must have been a tape flip at the end of disc two as the sound cuts out.
+
+I think there must have been a tape flip at the end of d3t07.
+

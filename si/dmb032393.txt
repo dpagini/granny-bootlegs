@@ -1,0 +1,83 @@
+Dave Matthews Band
+March 23, 1993
+Trax, Charlottesville, VA
+
+Source Information:	DSBD
+
+DAT > CD:		Mike Vernal <vernal@fas.harvard.edu>
+Equip:			Tascam DA-P1 > Audiomedia III > PowerMac G3/233 w/ Pro Tools 4.3.2
+
+
+Disc One:
+
+01:	Intro *						-	00:52:40
+02:	Heathcliff's Haiku Warriers *			-	03:49:22
+03:	Minarets *^					-	03:55:51
+04:	Best of What's Around *				-	03:09:31
+05:	Typical Situation *				-	04:25:16
+06:	All Along the Watchtower *			-	04:32:39
+07:	I'll Back You Up *				-	03:20:32
+08:	Two Step *					-	07:49:69
+09:	Granny						-	05:02:69
+10:	Jimi Thing $					-	22:54:46
+
+Total:	59:52:30
+
+
+Disc Two:
+
+01:	Also Sprach Zarathustra Medley			-	07:35:55
+02:	Ants Marching					-	04:46:61
+03:	So Much To Say					-	05:34:63
+04:	One Sweet World					-	09:24:43
+05:	True Reflections &				-	08:08:59
+06:	Recently					-	10:02:60
+07:	Rhyme & Reason					-	09:34:42
+
+Total:	54:48:18
+
+
+Disc Three:
+
+01:	Dancing Nancies					-	10:16:62
+02:	#34 !						-	09:06:49
+03:	Minarets					-	07:47:51
+04:	Blue Water Baboon Farm				-	17:21:69
+05:	Warehouse					-	08:24:47
+06:	Tripping Billies				-	05:18:03
+
+Total:	58:17:56
+
+
+Editing:
+
+Disc One, Tracks 01 - 08 were amplified by a factor of 2.5.  
+
+Disc One, Track 08 - At some point near the end of this track, I amplified a
+2-3 second gap of dead space by a factor of 5, and then faded that same gap
+in from half volume to full volume, creating a decently smooth transition in
+amplification factors from 2.5 to 5.
+
+Disc One, Track 09 through the end of the show were amplfied by a factor of 5
+(yes, a factor of 5).  This produced frequent clipping during the show, and I
+do concede this, but the level of the Carter's drums relative to the band led
+to his drums being the only instrument I heard that clipped, and that's how I
+justified it to myself.
+
+
+* - Dave Matthews Solo
+^ - Weird problem with vocals switching from left to right channel, and back
+    This problem would have been the soundman's problem, not the DATs.
+$ - Slight dropout just eliminated by me.  Will appear as a slight skip.  Sorry.
+& - Man, true reflections was a problem.  Two major dropouts, one around 1:50,
+    the other around 2:35.  For the one at 2:30, I put in a line that had already
+    been sung, and then sent it straight into boyd's solo.  Sounds a little weird,
+    but much better than it did at first.  There was no salvaging the 1:50 dropout.
+    I did my best, but it's still blatently obvious.  Ah well.  The third major
+    problem was at 4:45.  I don't know what it was, but the song sort of skips a
+    beat again.  I didn't touch this one.
+! - Weird reverb thang going on at one point.  On master DAT.
+
+
+
+

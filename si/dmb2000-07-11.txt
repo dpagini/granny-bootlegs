@@ -1,0 +1,55 @@
+Dave Matthews Band
+Giants Stadium, East Rutherford, NJ
+July 11, 2000
+
+Taper:		Mike Vernal <vernal@fas.harvard.edu>
+Source:		neumann ak40s > neumann lc-3 active cables > neumann km100s > 
+		Lunatec V2 > Audio Magic Excalibur-II XLRs > Apogee AD-1000 *
+Location:	12th row, stage right stack
+
+DAT > SHN:	PCM-R500 > Audiomedia III/Powermac G3/233 > Pro Tools 4.3.2
+		Panasonic 7502 (burn/extract)
+		
+Disc One:
+
+01:	Intro					-	02:27:72
+02:	#41					-	10:03:61
+03:	Song That Jane Likes			-	05:05:38
+04:	So Much To Say				-	04:18:55
+05:	Anyone Seen the Bridge			-	01:27:31
+06:	Too Much				-	06:44:71
+07:	One Sweet World				-	10:45:01
+
+Total:						-	40:55:27
+
+
+Disc Two:
+
+01:	Busted Stuff				-	06:41:22
+02:	#36					-	10:32:57
+03:	Lie In Our Graves			-	15:48:55
+04:	Bartender				-	08:41:58
+05:	Say Goodbye				-	12:03:51
+06:	Grey Street				-	07:33:60
+07:	John the Revelator			-	06:47:67
+
+Total:						-	68:11:67
+
+
+Disc Three:
+
+01:	Typical Situation			-	13:17:70
+02:	What Would You Say			-	05:59:60
+03:	Stay					-	10:54:23
+04:	Grace Is Gone				-	05:06:47
+05:	Leroi Intro				-	05:39:54
+06:	Pantala Naga Pampa			-	00:41:12
+07:	Rapunzel				-	08:47:64
+
+Total:						-	50:29:29
+
+* -	At some point in the show, the right mic became slightly dislodged from it's
+	mount, and it angled downwards at about a 30 degree angle.  This explains the
+	slightly off-center soundstage.
+
+

@@ -1,0 +1,37 @@
+Dave Matthews and Tim Reynolds
+02-05-99 Oakdale Theater, Wallingford, CT
+
+Source:  AT853>AT p/s>d7
+Taper:  Jason Crouch
+Conversion:  Mike Vernal
+
+Track	|		Name		|	m:s:f
+---------------------------------------------------------
+d1t01		Granny				7:04:56
+d1t02		Say Goodbye			7:30:21
+d1t03		Lie In Our Graves		9:23:74
+d1t04		Best of What's Around		5:53:48
+d1t05		Jimi Thing			5:27:31
+d1t06		What Will Become of Me		5:26:02
+d1t07		Too Much			5:22:36
+d1t08		Reconcile Our Differences	3:31:44
+
+d2t01		Don't Drink the Water		9:41:12
+d2t02		The Stone			7:01:39
+d2t03		Tim Solo			8:22:18
+d2t04		Crush				9:18:62
+d2t05		Two Step			8:00:51
+d2t06		Satellite			6:40:57
+d2t07		#41				5:49:19
+
+d3t01		Lover Lay Down			5:07:47
+d3t02		So Much To Say			3:59:67
+d3t03		Tim Solo			6:47:26
+d3t04		Crash Into Me			5:25:23
+d3t05		Dancing Nancies			6:32:18
+d3t06		Typical Situation		6:13:12
+d3t07		I'll Back You Up		5:19:01
+d3t08		All Along The Watchtower	6:09:56
+
+compiled by:
+allan chen (kaiyen@stanford.edu)

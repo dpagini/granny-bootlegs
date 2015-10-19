@@ -1,0 +1,42 @@
+Dave Matthews Band
+Fleet Center, Boston, MA
+December 11, 2000
+
+
+
+
+Taper:		Mike Vernal <vernal@fas.harvard.edu>
+Source:		neumann ak40s > neumann lc-3 active cables > neumann km100s > 
+		Lunatec V2 > Audio Magic Excalibur-II XLRs > Apogee AD-1000
+Location:	14th row, floor, dead center, 16' up
+
+DAT > SHN:	PCM-R500 > Audiomedia III/Powermac G3/233 > Pro Tools 4.3.2 >
+		Plextor 12x/4x/32x (burn/extract)
+
+Disc One:
+01:	Intro				-	02:20:47
+02:	The Stone			-	07:31:18
+03:	Drive In, Drive Out		-	07:35:15
+04:	Best of What's Around		-	07:01:64
+05:	JTR				-	07:27:24
+06:	So Much To Say			-	04:19:04
+07:	Anyone Seen The Bridge		-	01:28:13
+08:	Too Much			-	05:54:51
+09:	Lover Lay Down			-	08:20:49
+10:	Jimi Thing			-	17:33:07
+
+Total					-	69:33:67
+
+
+Disc Two
+01:	Pantala Naga Pampa		-	00:41:56
+02:	Rapunzel			-	08:35:55
+03:	Cortez The Killer		-	07:29:12
+04:	True Reflections		-	08:16:28
+05:	Grace Is Gone			-	06:16:56
+06:	#41				-	14:30:18
+07:	What Would You Say		-	10:33:41
+08:	Christmas Song			-	05:38:26
+09:	Watchtower			-	11:37:36
+
+Total					-	73:59:29

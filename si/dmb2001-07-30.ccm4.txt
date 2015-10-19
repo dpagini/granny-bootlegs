@@ -1,0 +1,42 @@
+Dave Matthews Band
+Saratoga Performing Arts Center
+7/30/2001
+
+Taper:  Brian Pearson
+Source: Schoeps CCM4 > Lunatec V2 > Graham Patton ADC20 > Sony D8 at 48 KHz
+Conversion: d8->coresound 7pin->coax->prodif plus->samplitude 48Khz->44.1 Khz->soundforge-> cdr > EAC > SHN
+Location: Sect 5, row l, seats 13/15
+
+Disc 1
+Track 1: 		Intro*				2:04
+Track 2: 		Tripping Billies*			7:20
+Track 3: 		Crash Into Me*			6:32
+Track 4: 		The Stone*			8:23
+Track 5: 		One Sweet World			9:38
+Track 6: 		The Space Between*+		5:33
+Track 7: 		Grey Street*			8:22
+Track 8: 		If I Had it All*+			4:50
+Track 9: 		So Much to Say*			5:42
+	TOTAL				58:24
+
+Disc 2
+Track 1:		Everyday*+			11:23
+Track 2:		I Did It*+			4:44
+Track 3:		Seek Up*				19:55
+Track 4:		When The World Ends*		5:13
+Track 5:		Sleep To Dream Her* -->		4:54
+Track 6:		Grace Is Gone*			8:57
+	TOTAL				55:06
+
+Disc 3
+Track 1:		So Right*			7:19
+Track 2: 		Long Black Veil*+			12:52
+Track 3:		What Would You Say*		6:22
+Track 4:		All Along the Watchtower*		16:49
+--Encore--
+Track 5:		Aint It Funny How Time Slips Away 	4:49
+Track 6:		Ants Marching*			7:45
+	TOTAL				55:56
+
+* Butch Taylor on keys
++ Tawatha, Cindy & Brenda on vocals

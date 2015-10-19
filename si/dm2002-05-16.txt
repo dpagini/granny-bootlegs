@@ -1,0 +1,48 @@
+Dave Matthews
+Star 98.7 Studios
+Los Angeles, CA 
+May 16, 2002
+
+
+Source:		SBD
+
+Conversion:	CD  > wav (EAC 0.90 Beta 3)
+		wav > SHN (MKW 0.97 Beta 1)
+
+
+***** Seektables Appended to SHN *****
+
+
+Disc 1:
+
+01:	Intro					07:45:73
+02:	Where Are You Going (Studio CD)		03:48:18
+03:	Interview				01:23:14
+04:	Q&A with Audience			05:22:32
+05:	Busted Stuff (Studio CD)		03:28:71
+06:	Interview				03:33:06
+07:	Grace is Gone (Studio CD)		04:26:12
+08:	Interview				02:37:44
+09:	Everyday				03:27:43
+10:	Interview				01:02:04
+11:	Interview				01:41:47
+12:	Best Of What's Around			03:02:58
+13:	Interview				01:57:06
+14:	For the Beauty of Wynona		01:36:14
+
+
+				Total:		45:39	
+
+Notes:
+
+- Commercials were edited out between tracks 3 and 4 and also between tracks 10 and 11.
+
+- The actually live show ends on the radio at 13 seconds into track 13, For the Beauty of Wynona was not aired.
+
+
+
+Thanks to Joel for a copy of the master disc.
+
+compiled by: Brian Yee <brian80@gmx.net>
+07-12-2002
+				

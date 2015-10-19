@@ -1,0 +1,63 @@
+Dave Matthews Band
+July 11, 1997
+The Gorge
+George, WA
+
+
+Source:		AKG 480(ck61) > Lunatec 316 > Apogee ad1000 > HHb
+		Marc Nutter
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				02:44.34
+02:		Best Of What's Around		06:30.20
+03:		Two Step			08:45.70
+04:		Lie In Our Graves # @		12:31.19
+05:		Jimi Thing # @			18:44.27
+
+Total						49:16.20
+
+Disc Two:
+
+01:		Song That Jane Likes		04:56.40
+02:		#41 ->				09:25.52
+03:		Say Gooodbye			09:59.47
+04:		Minarets ->			08:08.45
+05:		Typical Situation		12:51.12
+
+Total						45:21.46
+
+Disc Three:
+
+01:		Dancing Nancies			11:20.11
+02:		Warehouse			08:25.38
+03:		Crash Into Me			05:56.71
+04:		So Much To Say ->		04:07.58
+05:		Anyone Seen The Bridge ->	01:22.41
+06:		Too Much			04:59.09
+07:		Tripping Billies		05:56.43
+08:		encore break/intro		03:08.23
+09:		E:  Leave Me Praying		07:23.13
+10:		E:  Ants Marching		08:59.23
+
+Total						62:29.04
+
+#	with Steve Berlin from Los Lobos on saxophone.
+@	with David Hidalgo from Los Lobos on guitar.
+
+Notes:
+----------
+*	There is a thud during crowd noise after Jimi Thing
+	sounded like a PA problem or something hitting stand.
+*	There was a cut between Too Much and into Billies.  The
+	cut was ~37 seconds.  A second DAT from a different source
+	(although they sound sonically the same) was used to
+	splice in this missing audio.  It is seamlessly done.
+*	A portion of the encore break was cut, so a fade out/in
+	was inserted.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on August 24, 2001.

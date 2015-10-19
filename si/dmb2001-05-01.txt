@@ -1,0 +1,42 @@
+Dave Matthews Band
+Verizon Wireless Amphitheater Charlotte, NC
+Tuesday  May 1 2001
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		Neumann ak40s > Neumann lc-3 active cables > Neumann km100s > 
+		Sonosax sx-m2 > Audio Magic X-Stream XLRs > Sonic ad2k+ @ 44.1 16ns3
+Location:	1st row, stage right stack
+
+DAT > SHN:	DA-30 mk.II > Opcode Datport > IBM Think Pad 600X >
+		Sound Forge 4.5
+					
+Disc One:
+
+01:	Intro					- 	01:53.000
+02:	When The World Ends			- 	04:00.000
+03:	What Would You Say			- 	06:22.000
+04:	Rhyme & Reason				- 	06:22.506
+05:	So Right				-	07:03.000
+06:	#41>(Everyday)				-	13:23.000
+07:	Sleep To Dream Her			-	04:46.226
+08:	Grace Is Gone				-	06:51.000
+09:	I Did It				-	04:08.266
+10:	Everyday>(#36)				-	08:33.000
+11:	Watchtower				-	10:12.000
+
+Total:						-	73:54.000
+
+Disc Two:
+
+01:	What You Are				-	06:29.000
+02:	Jimi Thing				-	14:32.000
+03:	JTR					-	06:48.506
+04:	If I Had It All				-	04:34.493
+05:	True Reflections			-	08:16.506
+06:	Two Step				-	14:52.000
+07:	Waste					-	04:48.493
+08:	Tripping Billies			-	06:55.000
+
+Total:						-	67:16.000
+
+compiled by George Wang on 5-5-2001

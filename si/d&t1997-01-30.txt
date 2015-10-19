@@ -1,0 +1,50 @@
+Dave Matthews and Tim Reynolds
+January 30, 1997
+Vets Memorial Auditorium (Johnson & Wales University)
+Providence, Rhode Island 
+
+Source:		AKG 396 > DAT
+Conversion:	Tascam DA-30 > Digi Coax > Midiman DIO2448 (jond_ice@hotmail.com)
+Resampling:	48kHz > 44.1kHz via Cool Edit
+SHN:		MKW Audio Compression Tool
+
+****************************************************************
+	THIS SHOW IS NOT TO BE MP3-ENCODED	
+****************************************************************
+Disc 1
+1:	Intro					01:05
+2:	Warehouse (Passion Intro)*		10:55
+3:	Dancing Nancies				06:55
+4:	#41					05:41
+5:	Lie In Our Graves			06:52
+6:	Two Step				07:59
+7:	Let You Down				05:08
+8:	Dave Speak				00:56
+9:	Crash Into Me				04:40			
+10:	Angel from Montgomery			05:05
+11:	Too Much (Golden Years)			05:23
+12:	Dave Speak (Boogers)			02:08
+13:	So Much To Say				04:09
+Total						66:57
+
+Disc 2
+1:	Proudest Monkey				06:03
+2:	Satellite				04:52
+3:	Stream (Tim solo)			06:05
+4:	Deed Is Done				04:08
+5:	Crazy					03:46
+6:	Little Thing				03:25
+7:	Say Goodbye				06:04
+8:	Tripping Billies			05:32
+9:	Lover Lay Down				05:03
+10:	Pay For What You Get			05:44
+11:	Ants Marching				05:24
+12:	Christmas Song				05:30
+13:	encore break				02:34
+14:	Minarets				06:45
+Total						70:55
+
+* about 1:26 into Warehouse and again at about 2:05 the taper adjusted his levels.
+
+* compiled 2.10.01 by Jon Ice (jond_ice@hotmail.com)
+

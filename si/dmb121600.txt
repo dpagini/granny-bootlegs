@@ -1,0 +1,38 @@
+Dave Matthews Band
+Providence Civic Centre, Providence, RI
+December 16, 2000
+
+Taper:		Mike Vernal <vernal@fas.harvard.edu>
+Source:		neumann ak40s > neumann lc-3 active cables > neumann km100s > 
+		Lunatec V2 > Audio Magic Excalibur-II XLRs > Apogee AD-1000
+Location:	1st row, hard stage left, about 3 feet vertical and 5 feet horizontal from the stack
+DAT > SHN:	PCM-R500 > Audiomedia III/Powermac G3/233 > Pro Tools 4.3.2 >
+		Plextor 12x/4x/32x (burn/extract)
+
+Disc One:
+01:	Intro				-	02:29:49
+02:	The Stone			-	07:39:55
+03:	Drive In Drive Out		-	07:50:38
+04:	Song Jane Likes *		-	05:20:47
+05:	Satellite			-	05:58:54
+06:	JTR				-	07:33:45
+07:	Granny				-	04:38:56
+08:	So Much To Say			-	04:21:35
+09:	Anyone Seen the Bridge		-	01:27:37
+10:	Too Much			-	05:35:15
+11:	True Reflections		-	08:56:22
+
+Total:					-	61:54:03
+
+Disc Two:
+01:	Disc II Intro			-	00:08:35
+02:	#41				-	15:03:14
+03:	Jimi Thing			-	14:25:73
+04:	What Would You Say		-	06:02:41
+05:	All Along the Watchtower	-	15:01:18
+06:	Christmas Song			-	06:32:24
+07:	Tripping Billies		-	06:43:30
+
+Total:					-	63:59:10
+
+* - the sound wasn't on for first few seconds .. what year hear is from the stage.

@@ -1,0 +1,41 @@
+Howie Day
+01-24-02
+Liberty Hall
+Lawrence, KS
+
+MPEG CD
+
+Video Tapers: Jason Squires [jsquires@fgiweb.com]
+              Korey Martin  [korey@todays-special.com]
+Source:       Tripod shot Canon XL-1 MiniDV
+
+Conversion:   Jason Squires [jsquires@fgiweb.com]
+Mini DV's > IEEE 1394 > Adobe Premiere > Vegas Video > MPEG
+
+The audio for the mpeg is an SBD/AUD mix.
+AUD source was pulled from the mic on the camera.
+SBD source info is below.
+
+--------------------------------------------------------------
+
+Source: SBD
+Taper:  ?
+
+--------------------------------------------------------------
+
+Disc 1: "hday2002-01-24.mpeg"
+
+00:00 - Intro
+00:15 - Sorry, So Sorry
+07:27 - Secret
+11:25 - Ghost > Beams of Light > [First time in Kansas]
+21:41 - Everything Else
+25:19 - Morning After
+30:27 - After You
+38:19 - She Says > Idioteque Outro
+
+
+
+
+
+Compiled by: Jason Squires 02-24-02

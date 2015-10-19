@@ -1,0 +1,32 @@
+The Dave Matthews Band
+May 10, 1995
+Yoshi's, Oakland, CA
+KFOG Radio Broadcast
+
+Taper:  uknown
+Source:  FM > DAT > CD
+
+Conversion:  Mike Vernal
+da-p1>audiomedia III>powermac G3>pro tools>AIFF>soundedit 16>separate AIFFS>CD
+
+Track   |       Title                   |       M:S:F
+------------------------------------------------------------
+d1t01           Recently                        4:14:11
+d1t02           Dancing Nancies                 7:03:15
+d1t03           Pay For What You Get            7:45:17
+d1t04           Jimi Thing                      8:48:35
+d1t05           Ants Marching                   5:32:50
+d1t06           Tripping Billies                5:48:20
+d1t07           E: Don't Burn the Pig           4:43:74
+d1t08           E: #40                          4:40:64
+
+
+compiled by:  Allan Chen
+kaiyen@stanford.edu
+
+DDS - Digital DMB Source
+
+
+
+
+

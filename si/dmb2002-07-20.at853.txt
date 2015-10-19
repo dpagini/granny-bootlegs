@@ -1,0 +1,60 @@
+Dave Matthews Band
+July 20, 2002
+Six Flags Darien Lake
+Performing Arts Center
+Darien Center, NY
+
+
+Taper:		Garrett Bastable <s.garrett.bastable@villanova.edu> 
+Source:		AT853, XY-90 @ 15ft. > BattBox (SP-SPSB-3L) > 
+		Oade Mod. Edirol UA-5 (A/D + pre-amp) > Sony TCD-D8
+Location:	Row 1 (far left isle seat), ~18ft. from left stack 
+
+Conversion:	Garrett Bastable <s.garrett.bastable@villanova.edu>
+WAV > SHN:	Sony TCD-D8 > Edirol UA-5 > Dell Dimension B1000r > 
+		Sound Forge 6.0 > .shn (mkwACT 0.96f)		
+
+
+*** DO NOT ENCODE THIS SHOW INTO MP3 FORMAT ***
+
+
+Track	| Title					| Time (m:s.f)
+-----------------------------------------------------------------
+Disc -1-
+d1t01:    Grey Street %				  07:00.15
+d1t02:    The Stone				  09:11.14
+d1t03:    Rhyme & Reason			  06:35.07
+d1t04:    One Sweet World *			  10:06.35
+d1t05:    Kit Kat Jam (w/ lyrics)		  06:13.35
+d1t06:    When The World Ends			  04:40.73
+d1t07:    You Never Know			  08:03.01
+d1t08:    Bartender				  13:40.59
+
+Total:						  65:31.14
+-----------------------------------------------------------------
+Disc -2-
+d2t01:    Crush					  12:02.38
+d2t02:    Everyday (#36)			  10:12.43
+d2t03:    Captain				  06:10.52
+d2t04:    Fool To Think				  04:33.37
+d2t05:    Loving Wings				  06:11.00
+d2t06:    Where Are You Going			  04:27.71
+d2t07:    Watchtower				  16:10.22
+d2t08:    E: Gravedigger ^#			  04:24.46
+d2t09:    E: Passion Intro >			  02:52.16
+d2t10:    E: What You Are			  05:26.63
+
+Total:						  72:32.13
+-----------------------------------------------------------------
+
+Notes:  
+% - Raised stand from 10ft. > ~15ft. after Grey Street
+* - Instrumental Intro, Scat Outro
+^ - Dave had an equipment (guitar) failure near the end
+# - Dave solo
+  - Entire show w/ Butch Taylor on keys
+  - Special thanks to Jeff Hanna for helping me w/ the taping and
+    Matt Adler for the awesome tickets
+
+
+Compiled by Garrett Bastable on 2002-07-21

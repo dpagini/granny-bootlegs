@@ -1,0 +1,46 @@
+Dave Matthews Band
+Pepsi Arena, Albany, NY
+December 09, 2000
+
+
+Taper:		Mike Vernal <vernal@fas.harvard.edu>
+Source:		neumann ak40s > neumann lc-3 active cables > neumann km100s > 
+		Lunatec V2 > Audio Magic Excalibur-II XLRs > Apogee AD-1000
+Location:	11th row, center section, four seats stage left of center
+
+DAT > SHN:	PCM-R500 > Audiomedia III/Powermac G3/233 > Pro Tools 4.3.2 >
+		Plextor 12x/4x/32x (burn/extract)
+
+Disc One:
+
+01:	Intro				-	02:02:33
+02:	One Sweet World			-	09:05:05
+03:	Granny				-	05:46:28
+04:	Satellite			-	06:09:45
+05:	Lie In Our Graves		-	12:31:31
+06:	Crash Into Me			-	06:42:69
+07:	Bartender			-	10:34:26
+
+Total:					-	52:54:12
+
+
+Disc Two:
+
+01:	True Reflections		-	08:23:68
+02:	JTR				-	07:41:54
+03:	Don't Drink the Water		-	08:02:46
+04:	Grace Is Gone			-	06:58:31
+05:	#41				-	14:02:70
+
+Total:					-	45:11:44
+
+
+Disc Three:
+
+01:	Too Much			-	05:31:63
+02:	Jimi Thing			-	15:45:23
+03:	What Would You Say		-	14:14:20
+04:	Christmas Song			-	05:56:46
+05:	All Along the Watchtower	-	11:21:73
+
+Total:					-	52:52:00

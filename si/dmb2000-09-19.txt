@@ -1,0 +1,57 @@
+Dave Matthews Band
+Riverport Amphitheatre, St. Louis, MO
+September 19, 2000
+
+Taper:		Craig Willoughby
+Source:		neumann ak40s > neumann lc-3 active cables > neumann km100s > 
+		Lunatec V2 > Audio Magic Presto-II XLRs > ADC-20
+		
+Location:	11th row, stage left stack; on Jeff Travitz's stand.
+
+DAT > SHN:	Craig Willoughby <marchingant@earthlink.net> Prodif Digital Soundcard> 
+		Samplitude> CDWAV> SHN
+
+Disc One:
+
+01:	Intro					-	02:00:03
+02:	Best of What's Around			-	05:56:49
+03:	Satellite				-	07:03:69
+04:	Don't Drink the Water *			-	09:24:34
+05:	Drive In Drive Out			-	06:39:57
+06:	Angel From Montgomery			-	04:52:33
+
+Total:						-	35:59:20
+
+
+Disc Two:
+
+01:	One Sweet World				-	09:18:70
+02:	Busted Stuff				-	08:11:02
+03:	Jimi Thing				-	17:15:06
+04:	Grey Street				-	07:56:33
+05:	True Reflections			-	07:46:09
+
+Total:						-	50:29:45
+
+
+Disc Three:
+
+01:	So Much To Say ->			-	04:24:17
+02:	Anyone Seen the Bridge -> +		-	01:43:23
+03:	Too Much (tease) -> +			-	00:08:12
+04:	Ants Marching -> + 			-	08:42:36
+05:	Two Step +				-	36:22:34
+06:	Pantala Naga Pampa ->			-	00:40:35
+07:	Rapunzel				-	07:08:21
+
+Total:						-	59:11:28
+
+
+* - w/ Bela Fleck
++ - w/ Bela Fleck & the Flecktones
+
+Note: There seems to be a dropout at about 1:25 or so in Best of What's
+Around.  =(
+
+
+

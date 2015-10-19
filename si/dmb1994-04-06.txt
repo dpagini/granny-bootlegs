@@ -1,0 +1,47 @@
+Dave Matthews Band
+04-06-94
+Georgia Theater
+Athens, GA
+
+Source:		DSBD
+Conversion:	Tascam DA-30 > Digi Coax > Midiman DIO2448 (jond_ice@hotmail.com)
+Resampling:	48kHz > 44.1kHz via Cool Edit
+SHN:		MKW Audio Compression Tool
+
+****************************************************************
+	THIS SHOW IS NOT TO BE MP3-ENCODED	
+****************************************************************
+Disc 1
+Set 1
+1:	Intro						01:08
+2:	Seek Up						14:21
+3:	Best of What's Around				05:40
+4:	Me and Her*					04:44
+5:	Song That Jane Likes				04:28
+6:	Dancing Nancies					09:29
+7:	Lover Lay Down					08:00
+8:	Warehouse					09:38
+9:	Tripping Billies				04:26
+Total							60:34
+
+Disc 2
+Set 2
+1:	Intro						00:58
+2:	Two Step>					07:43
+3:	Ants Marching					07:17
+4:	Jimi Thing					13:11
+5:	Rhyme and Reason				06:26
+6:	Help Myself					05:02
+7:	What would You Say				06:14
+8:	Minarets					08:44
+9:	Recently					11:26
+10:	Satellite					05:46
+Total							71:27
+
+*  d1t04 was labeled as "Me and Her" on the DAT.   As far as I can tell this is the only time 
+   this song was played.  It was soundchecked on 2.5.94 (d3t04).
+
+   Must be something about Athens, GA. :o)
+
+compiled by Jon Ice (11.1.00)
+

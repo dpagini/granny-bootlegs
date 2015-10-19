@@ -1,0 +1,67 @@
+Dave Matthews Band
+December 22, 1992
+Trax, Charlottesville, VA (?)
+
+Taper: ?
+Source Info: SBD-->DAT
+Conversion Info: fostex d5>hhb 850
+Converter: David Eisenberg (tr168@aol.com)
+DAE: Mike Heath on a Sony CRX100E using Exact Audio Copy version .9 pre-beta 3
+shn: Mike Heath using batch files
+
+Disc 1:
+    Soundcheck (levels change, diginoise; not the best sounding, but still cool to have as filler):
+01	Granny				05:24.47
+02	The Song That Jane Likes	04:14.68
+03	True Reflections		03:49.81
+04	True Reflections		04:18.47
+05	Spotlight			05:49.25
+06	Jimi Thing			06:32.84
+07	Interlude Music			01:18.15
+    Set I: (levels stable, no diginoise, very clean)
+08	Typical Situation		08:51.64
+09	Angel From Montgomery		04:33.93
+10	What Would You Say		04:32.60
+11	Spotlight			05:45.76
+12	The Maker			06:33.69
+13	Help Myself (Dangerous Hours)	04:52.17
+			Total time: 66:37.47
+
+Disc 2:
+01	Minarets			06:30.24
+02	Blue Water (Baboon Farm)	13:08.19
+03	Warehouse			08:24.77
+04	Halloween			05:09.89
+05	Granny*				04:30.17
+     Set II:	
+06	Two Step			14:55.85
+07	Dancing Nancies			06:51.80
+			Total time: 59:30.92
+
+Disc 3:
+01	Lover Lay Down			09:39.32
+02	Lie In Our Graves		04:13.08
+03	True Reflections		06:45.89
+04	Pay For What You Get		05:35.17
+05	So Much To Say			05:15.99
+06	Satellite			05:19.89
+07	One Sweet World			08:35.60
+     Encore:
+08	Ants Marching Intro		03:13.79
+09	Ants Marching			04:19.16
+10	Tripping Billies		04:58.31
+			Total time: 57:56.20
+
+* Diginoise during intermission. Not a big deal, but it's there
+
+The date is my best guess. When I recieved this show, no setlist engine listed it, and no one knew of it.
+DMBSE (http://dmbse.dhs.org) listed a show identical to this (w/ the encore and soundcheck missing), but as 12/22/1993.
+I was told it was 12/22/1992, and I believe it is. Here is why...
+1) Peter Griesar is with the band. He quit 3/23/1993, which rules out any possible show past that date.
+2) It was recorded on DAT. There are no known 1991 shows on DAT.
+3) So Much To Say, (Celebrate) Two Step, Lie In Our Graves, (Dangerous Hours) Help Myself, Halloween, and Granny were
+   all played. These songs did not debut until 1992.
+4) No songs written past 1993 are played.
+5) Dave wishes everyone a Merry Christmas at the end of the show.
+The venue is uncertain, but I assume it is Trax, only because DMBSE listed the 12/22/1993 (with nearly identical setlist)
+as being played at Trax. That's why I list it as being at Trax (that and DMB played at Trax a LOT those early years).

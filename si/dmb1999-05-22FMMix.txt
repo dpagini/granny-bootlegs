@@ -1,0 +1,41 @@
+Dave Matthews Band
+May 22, 1999
+Veteran's Stadium
+Philadelphia, PA
+
+Source I: 	DAud [Microtech Geffell SMS2000/200 (cards) -> Oade M148 -> Sony SBM1 -> Sony D7)
+Location: 	Section 63 Row L, Left Rear Corner of stage, XY90 @ 10 feet
+Taper: 		Unknown
+
+Source II: 	FM aSBD -> Sony D7
+Conversion: 	Nomad Player/Recorder > .wav (Direct DAT extraction, no soundcard) --> SoundForge 4.5
+Matrix Level: 	0.75 Source I, 0.25 Source II
+
+
+Disc 1:
+01: One Sweet World (Instrumental intro)
+02: Tripping Billies (Nature)
+03: Don't Drink the Water *
+04: Two Step *
+05: All Along the Watchtower **
+06: Granny ^
+07: Crush
+
+Disc 2:
+01: Long Black Veil ^
+02: Stay ^
+03: Linus and Lucy
+04: Pantala Naga Pampa --> Rapunzel
+05: Warehouse (Stop-time intro)
+06: Lie In Our Graves *
+07: Drive In Drive Out
+Encore:
+08: Ants Marching *
+
+* 	with Bela Fleck
+** 	with Carlos Santana
+^ 	with Tawatha Agee, Cindy Myzell, and Brenda White King
+	
+
+	entire show with Butch Taylor on keys
+

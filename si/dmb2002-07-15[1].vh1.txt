@@ -1,0 +1,30 @@
+Dave Matthews Band
+July 15th, 2002
+VH1 Special, Roof of Ed Sullivan Theater
+New York, NY
+
+Aired on VH1: July 29, 2002
+
+
+
+Taper: 		Donald Van Slyke
+Source: 	Cox Digital Cable > ATI TV-Wonder > Virtual Dub @ 352x240 > 
+		AVI (YUY2 HUFFY)
+Conversion:	AVI (YUY2 Huffy codec) > TMPGEnc (TibrO VCD template) > MPEG
+
+
+Track
+---------
+
+Show Intro		00:00 - 00:24 
+Where Are You Going 	00:25 - 04:02
+You Never Know 		04:03 -	09:59
+Grey Street 		10:00 - 15:24
+Grace Is Gone 		15:25 - 21:2
+
+
+Notes: Audio is a bit low
+
+------------
+Compiled on July 30, 2002
+by Donald Van Slyke (killboys@antsmarching.org)

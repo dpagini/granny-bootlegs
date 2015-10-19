@@ -1,0 +1,46 @@
+Dave Matthews Band
+February 23, 1995
+Roseland Ballrom
+New York City, NY
+
+
+Source:  DSBD > DAT
+
+Conversion: Archive Python DDS/dat2wav > .wav; no soundcard
+  Soundforge for resampling & CDWAV used for tracking
+  Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:  Intro    00:17.40
+02:  Seek Up    13:26.28
+03:  Satellite   05:19.04
+04:  Dancing Nancies   08:51.18
+05:  Lie In Our Graves  08:06.71
+06:  Rhyme And Reason  05:48.56
+07:  Say Goodbye   07:06.16
+08:  Help Myself   04:54.51
+09:  What Would You Say  03:49.15
+
+Total      57:39.74
+
+Disc Two:
+
+01:  Jimi Thing   14:14.44
+02:  Recently # ->   09:36.39
+03:  Water Wine Jam #  03:15.64
+04:  #36 #    13:20.69
+05:  Ants Marching   06:44.17
+06:  encore intro   00:47.63
+07:  E:  Angel From Montgomery 05:41.32
+08:  E:  Tripping Billies (Nature) 06:03.61
+
+Total      59:45.14
+
+# with John Popper on harmonica.
+
+Notes:
+----------
+* The encore break was cut so a fade out/in was inserted.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on October 9, 2001.

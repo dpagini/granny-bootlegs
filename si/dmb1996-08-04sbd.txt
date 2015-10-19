@@ -1,0 +1,38 @@
+Dave Matthews Band
+August 4, 1996
+H.O.R.D.E. Tour
+Gorge Amphitheatre
+George, WA
+
+Taper:		unknown
+Source Info:	unknown, probably FM SBD
+
+DAT > CD:	unknown
+Equip:		unknown
+
+CD > WAV: 	dome by Jon Ice (jond_ice@hotmail.com) using an Acer 4432 -> EAC
+WAV > SHN: 	using MKW Audio Compression Tool
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Tripping Billies			05:56.13
+d1t02		#41					08:45.14
+d1t03		Two Step				08:07.46
+d1t04		Crash Into Me				06:42.17
+d1t05		Too Much				05:04.42
+d1t06		So Much To Say				05:02.31
+d1t07		Jimi Thing				12:57.49
+d1t08		Help Myself				04:44.50
+d1t09		Drive In, Drive Out			06:08.15
+d1t10		All Along The Watchtower*		08:52.12
+d1 totals 72:22.64
+
+* - w/John Popper
+Compiled by: David Baty (dbaty@virtualwebz.net)
+
+Notes:  Source is unknown, but it is most likely an FM SBD due to the cuts in the show,
+	and seamless nature of those cuts.  Cut from the show are Best of What's Around,
+	#36, and Ants Marching.  So Much To Say and Jimi Thing are flipped as well.
+	The show sounds too good to not be circulated though.   -Ice (jond_ice@hotmail.com)
+
+
+

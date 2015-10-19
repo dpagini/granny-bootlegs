@@ -1,0 +1,33 @@
+Neil Young and Crazy Horse
+April 21, 2001
+Scott Stadium - University of Virginia
+Charlottesville, VA
+
+
+Source:		AKG c3000 > BPS1 > SBM1 > D8
+		Tim Cochrane
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				01:26.33
+02:		Sedan Delivery			05:34.16
+03:		Hey Hey, My My			05:03.17
+04:		Love And Only Love		12:01.03
+05:		Cinnamon Girl ->		03:47.36
+06:		Fuckin' Up			06:01.01
+07:		Cortez The Killer		08:48.46
+08:		Come On Baby Let's Go Downtown	05:13.35
+09:		Rockin' In The Free World	07:40.09
+10:		Down By The River		11:41.47
+
+Total						67:17.18
+
+Notes:
+----------
+*	None, this show is perfect.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on April 23, 2001.

@@ -1,0 +1,22 @@
+Dave Matthews Band
+Ardent Studios
+Memphis, TN
+1992
+
+Taper:		unknown
+Source Info:	c(0)
+
+Conversion:	Jon Weber
+analog > DAT:	Sony 3-head deck > Tascam DA20 DAT
+DAT > CD:	Sony TCD-D7 > Marantz CDR630
+
+CD > SHN:	David Baty
+		EAC v0.9pb7 @ 1x > CEP 1.1 (normalized) > CDWAV > mkwACT
+
+
+Name				|	Time (m:s)
+--------------------------------------------------
+Dancing Nancies				05:25.42
+Spotlight				05:41.36
+
+

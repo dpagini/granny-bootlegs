@@ -1,0 +1,54 @@
+Dave Matthews Band
+Ice Palace, Tampa, FL
+July 23, 2001
+
+Taper:		Paul Chrostowski
+Source:		Schoeps CCM4V cardioids > Schoeps K5LU XLR >
+		Lunatec V2 > Audio Magic Presto II RCA > Tascam DA-P1
+Location:	75° ORTF width 13' high, ~38th row right stack at SBD
+
+Conversion:     Paul Chrostowski 8/1/01
+DAT > SHN:	PCM-R500 > Sek'd Prodif+ > Samplitude 2496 > CDWAV 
+                (resampled by Prodif+ from 48KHz, no DAE)
+		
+Disc One:
+
+01:	Intro					-	02:41.66
+02:	JTR					-	07:27.00
+03:	The Space Between			-	05:43.41
+04:	When The World Ends			-	04:32.63
+05:	So Right				-	06:44.57
+06:	Crush					-	12:17.48
+07:	Rhyme & Reason				-	07:15.37
+08:	Bartender				-	11:50.71
+
+Total:						-	58:34.08
+
+
+Disc Two:
+
+01:	What You Are				-	08:49.27
+02:	Two Step *				-	25:21.48
+03:	Angel					-	05:33.74
+04:	True Reflections			-	09:31.40
+05:	Lover Lay Down				-	10:29.24
+
+Total:						-	59:45.63
+
+
+Disc Three:
+
+01:	Fool To Think				-	05:13.45
+02:	Jimi Thing				-	16:38.30
+03:	I Did It				-	04:31.66
+04:	Stay					-	14:45.34
+	~~~Encore~~~
+05:	Grace Is Gone				-	08:44.74
+06:	Tripping Billies			-	08:44.51
+
+Total:						-	58:39.00
+
+
+Notes:
+
+* - w/ Junior Brown

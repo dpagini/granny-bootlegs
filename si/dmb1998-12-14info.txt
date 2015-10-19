@@ -1,0 +1,47 @@
+Dave Matthews Band
+December 14, 1998
+Bradley Center - Milwaukee, WI 
+
+Taper: Jason Crouch
+Source: AT853 > SBM-1 > D8
+
+Conversion: Ken Kieffer (claude@kc.rr.com)
+Equipment: Sony TCD-D8 > Opcode DATPort > Pentium II 450 > Samplitude 
+           (48khz > 44.1khz) > CDWAV > SHN
+
+---------------------------------------------------------------------
+
+Disc One:
+
+01 - Intro                                           -       05:08:08
+02 - Pantala Naga Pampa -->                          -       00:41:71
+03 - Rapunzel                                        -       06:36:69
+04 - Stay                                            -       08:24:41
+05 - #41                                             -       10:16:43
+06 - Warehouse                                       -       10:17:18
+07 - Don't Drink The Water                           -       08:30:33
+08 - Pay For What You Get                            -       08:28:57
+09 - Jimi Thing                                      -       14:45:28
+
+Disc One Total:                                      -       73:09:68
+
+Disc Two:
+
+01 - Intro                                           -       00:41:21
+02 - The Stone                                       -       07:56:57
+03 - Drive In Drive out                              -       08:15:54
+04 - Anyone Seen The Bridge? -->                     -       02:30:26
+05 - Too Much                                        -       05:48:34
+06 - Crush                                           -       10:51:34
+07 - Rhyme & Reason                                  -       07:01:45
+08 - Tripping Billies                                -       07:54:42
+09 - E:  Christmas Song *                            -       06:35:44
+10 - E:  Crash Into Me                               -       06:10:44
+
+Disc Two Total:                                      -       63:46:26
+
+Entire Set With Tim Reynolds
+
+* Dave, Tim, and Carter
+
+Note:  The fade out at the end of disc two was on the DAT.

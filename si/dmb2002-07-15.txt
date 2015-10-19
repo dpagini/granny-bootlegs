@@ -1,0 +1,18 @@
+Dave Matthews Band
+July 15th, 2002
+The Late Show with David Letterman, Roof of Ed Sullivan Theater
+New York, NY
+
+Taper: 		Donald Van Slyke
+Source: 	Cox Digital Cable > ATI TV-Wonder > Virtual Dub @ 352x240 > 
+		AVI (YUY2 HUFFY)
+Conversion:	AVI (YUY2 Huffy codec) > TMPGEnc (TibrO VCD template) > MPEG
+
+Track	
+-----  
+01	Where Are You Going	- 05:19
+
+
+------------
+Compiled on July 16th, 2002
+by Donald Van Slyke

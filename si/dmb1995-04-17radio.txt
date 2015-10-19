@@ -1,0 +1,35 @@
+Dave Matthews Band
+April 17, 1995
+Javelina Studios - Columbia Records Music Hour
+Nashville, TN
+
+
+Source:		FM ? > DAT
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				00:29.02
+02:		Tripping Billies		05:05.22
+03:		Rhyme And Reason		05:31.67
+04:		Dancing Nancies			09:17.64
+05:		Pay For What You Get		05:32.64
+06:		Production Notes		01:21.45
+
+Total						27:16.67
+
+Notes:
+----------
+*	The source of this show is not known.  It was found
+	as filler on a DAT i was converting.  It sounds great
+	but there could be an FM or analog generation in
+	the history of the DAT.
+*	The levels were a bit low, so i boosted them in
+	SoundForge by 4dB.
+*	There is some diginoise in the intro track.
+*	There is some diginoise in the production notes track.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on September 25, 2001.

@@ -1,0 +1,43 @@
+Dave Matthews Band
+GTE Virginia Beach Amphitheatre
+Virginia Beach, VA
+August 31, 2000
+
+Taper:		Henry Hart <hh31683@cp.appstate.edu>
+Source Info:	Earthworks SR71 > MP-2 > DA-P1
+Location:	center orchestra section, row 6, 2 aisle seats on the left
+
+DAT > CD:	David Baty <dbaty@usermail.com>
+Equip:		D8 > Montego II+ > CEP 1.1 > CDWAV
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Intro					02:02.17
+d1t02		Best Of What's Around			06:46.25
+d1t03		The Song That Jane Likes		05:45.67
+d1t04		Rhyme & Reason				06:46.51
+d1t05		Satellite				06:29.31
+d1t06		Busted Stuff				07:45.55
+d1t07		All Along The Watchtower		10:24.70
+d1t08		Minarets				07:21.54
+d1t09		Crush *					11:29.64
+d1t10		Too Much *				05:31.65
+d1 totals 70:36.24
+
+d2t01		Grace Is Gone				05:49.61
+d2t02		JTR					06:39.38
+d2t03		Grey Street				08:23.39
+d2t04		Raven					07:19.24
+d2t05		Drive In, Drive Out			06:48.09
+d2t06		Jimi Thing				17:55.48
+d2t07		Tripping Billies			06:05.00
+d2t08		encore intro				02:50.30
+d2t09		Pantala Naga Pampa * -->		00:39.69
+d2t10		Rapunzel *				07:10.07
+d2 totals 69:43.25
+
+entire show with Butch Taylor
+* with Jamal Milner on electric guitar
+
+NOTE: crowd noise removed between main set and encore to fit show on two discs

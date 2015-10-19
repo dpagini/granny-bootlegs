@@ -1,0 +1,38 @@
+Dave Matthews Band
+December 12, 2000
+Madison Square Garden
+New York, NY
+
+Source: DAud [Microtech Geffell SMS2000/200 (cards) -> Oade M148 -> Sony SBM1 -> Sony D7)
+Location: Section 63 Row L, Left Rear Corner of stage, XY90 @ 10 feet
+Taper: Bill Lakenan <blakenan@us.net>
+Conversion: Archive Python DDS/vdat > .wav (Direct DAT extraction, no soundcard)
+Converted by: Bill Lakenan <blakenan@us.net>
+
+Disc 1:
+01: Warehouse 
+02: What Would You Say
+03: Satellite 
+04: The Stone 
+05: Best of Whats Around 
+06: Crash Into Me (Dixie Chicken)
+07: JTR 
+08: Song That Jane Likes 
+09: Rhyme & Reason
+
+Disc 2:
+01: Crush % 
+02: Tripping Billies 
+03: #41 
+04: Two Step 
+05: <Encore Break>
+06: Christmas Song * (All you need is love, Can't buy me love)
+07: All Along the Watchtower # 
+
+* Dave and Carter only
+% with Warren Haynes on guitar
+# with Warren Haynes on guitar and vocals
+
+
+
+

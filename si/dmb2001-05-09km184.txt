@@ -1,0 +1,74 @@
+Dave Matthews Band
+May 9, 2001
+Oak Mountain Amphitheatre
+Pelham, AL
+
+
+Source:		Neumann KM184 cardioids > Kimber Kable Hero XLR >
+		Lunatec V2 (high pass filter 6dB/octave @ 100Hz) >
+		Audio Magic Presto II RCA > Tascam DA-P1
+Location:	75° NOS width 13' high, 16th row dead center
+		Paul Chrostowski (pchrosto@cfl.rr.com)
+
+Conversion:	PCM-R500 > Sek'd Prodif+ > Samplitude 2496 > CDWAV 
+                (resampled by Prodif+ from 48KHz, no DAE)
+		Paul Chrostowski (pchrosto@cfl.rr.com) 5/11/01
+		
+Disc One:
+
+01:	Intro					-	02:26.24
+02:	One Sweet World				-	09:22.60
+03:	Satellite				-	06:04.69
+04:	#41 (w/ Everyday) *			-	13:32.07
+05:	When The World Ends			-	04:26.00
+06:	I Did It				-	04:31.60
+07:	Bartender				-	12:15.67
+
+Total:						-	52:39.62
+
+
+Disc Two:
+
+01:	The Space Between			-	05:13.53
+02:	Sleep To Dream Her			-	05:48.69
+03:	Grey Street				-	09:11.51
+04:	Rhyme & Reason				-	06:15.20
+05:	Recently >				-	03:04.58
+06:	Digging A Ditch				-	04:44.43
+07:	JTR					-	06:40.68
+08:	What You Are				-	06:46.45
+
+Total:						-	47:46.32
+
+
+Disc Three:
+
+01:	True Reflections			-	08:28.01
+02:	Two Step				-	21:24.12
+	~~~Encore~~~
+03:	Waste (w/ #40 tease) %			-	05:13.48
+04:	Everyday (w/ #36)			-	09:21.00
+05:	All Along The Watchtower		-	09:57.16
+
+Total:						-	54:24.02
+
+*	lowered the stand between #41 and When The World Ends to clamp
+	an umbrella to the stand, stand was back up by the time When The
+	World Ends started.
+%	Dave solo
+
+Notes:
+----------
+It rained lightly during Soulive's set and it had stopped and cleared
+a bit so I decided to just fly the mics with only some tape around the
+connections and windscreens. Bad move because it started to rain again
+during Satellite and got bad enough that I had to lower the stand and
+clamp on an umbrella. Then it proceeded to rain steadily up until True
+Reflections, but it's not really noticeable, I don't think. Only some
+thumping, etc when I moved the stand up and down after #41. This was
+the loudest PA I've ever heard at a DMB show, especially Carter's toms
+and snare.  I was in pain by the time Two Step came around, I don't
+think the recording captures the explosiveness of Carter's drums fully
+but it came out well. Anyway for the full effect stand under your lawn
+sprinkler and enjoy. =)
+

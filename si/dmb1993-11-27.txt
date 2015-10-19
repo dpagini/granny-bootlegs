@@ -1,0 +1,34 @@
+Dave Matthews Band
+unknown venue
+unknown location
+November 27, 1993
+
+Taper:		unknown
+Source Info:	mono - dSBD (65%) + unknown aud source (35%)
+
+DAT > CD:	David Baty <dbaty@usermail.com>
+Equip:		D8 > Montego II+ > CEP 1.1 > CDWAV
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		True Reflections			07:22.24
+d1t02		Minarets				09:35.30
+d1t03		Jimi Thing -->				09:32.06
+d1t04		Seek Up					15:47.66
+d1 totals 42:19.26
+
+d2t01		Say Goodbye				05:26.35
+d2t02		I'll Back You Up			06:48.02
+d2t03		All Along The Watchtower		07:58.12
+d2t04		Recently				15:22.63
+d2t05		encore break				03:02.06
+d2t06		Ants Marching				07:36.41
+d2 totals 46:16.84
+
+NOTES:
+On the DAT the right channel was an SBD and the left an AUD.  I 
+decided to mix the channels together (SBD at 65% / AUD at 35%)
+rather than mirror either of the channels.  This means this is
+NOT a stereo mix, both channels are exactly the same.  (And never
+would be given that there was only one channel of each source)

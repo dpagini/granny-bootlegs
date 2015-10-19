@@ -1,0 +1,60 @@
+Dave Matthews Band
+
+February 10, 1995
+
+Tower Theater
+
+Philadelphia, PA
+
+
+
+Taper:  Jeff Travitz
+
+Source:  schoeps cmc5/mk4 + SBD matrix
+
+
+
+conversion: Jeff Travitz and Allan Chen
+
+
+
+track	|	title	
+
+--------------------------------------------------------
+
+t01	Recently *->Wine/Water Jam		6:08.63
+
+t02	#36->				8:29.48
+
+t03	Best of What's Around->		6:23.55
+
+t04	Recently (reprise)		             	6:39.65
+
+t05	What Would You Say ^ ->Minarets              13:26.08
+
+t06	Typical Situation			8:43.
+
+t07	Dancing Nancies			8:36.17
+
+t08	Two Step				6:25.06
+
+t09	Ants Marching			6:35.37
+
+t10	Warehouse			8:14.10
+
+
+
+* - Some People Do Intro
+
+^ - W/ John Popper
+
+
+
+comments:
+
+done on a standalone, retracked in sound forge.
+
+
+
+compiled by:  Allan Chen (kaiyen@stanford.edu)
+

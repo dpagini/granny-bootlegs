@@ -1,0 +1,55 @@
+Dave Matthews Band
+labor day weekend radio special
+songs taken from:
+July 6th and July 7th, 2001
+Soldier Field
+Chicago Illinois
+
+
+Source:		master audio discs played at radio station
+CD > SHN:	EAC 0.85pb4 with Plextor 8/20
+		CDWAV used for retracking
+		Soundforge used to insert fade out/in
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro					01:20.73
+02:		Grey Street *				07:36.52
+03:		One Sweet World (acoustic intro)	09:18.28
+04:		When The World Ends *			05:13.30
+05:		What You Are *				06:33.23
+06:		Crush *					10:48.27
+07:		Intro					00:49.55
+08:		Angel * $				12:01.40
+
+Total							53:42.43
+
+Disc Two:
+
+01:		Bartender				11:26.28
+02:		I Did It * ~				04:37.31
+03:		Introduction of Angelique Kidjo		00:50.42
+04:		Satellite * @				05:22.55
+05:		Everyday (#36) * ~			09:24.04
+06:		Recently (some do, some don't)		04:26.40
+07:		The Space Between * ~			04:58.03
+08:		Stay * ~				07:33.70
+09:		Production Notes			01:28.42
+
+Total							50:08.00
+
+*	with Butch Taylor on keyboard.
+$	with Buddy Guy on guitar.
+~	with Tawatha, Cindy, and Brenda on vocals.
+@	with Angelique Kidjo on vocals.
+
+Notes:
+----------
+*	The crowd noise between songs was inserted by the
+	producer of this show.  These songs don't flow
+	together in the shows themselves, but they sound
+	like they do here!
+*	Thanks to Mark Lynn for the discs.
+
+*  Compiled by Louie Rendek <ljr7@po.cwru.edu> September 20, 2001
